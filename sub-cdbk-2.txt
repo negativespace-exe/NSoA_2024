@@ -1,0 +1,5858 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      CODEBOOK
+
+
+                 National Survey of Artists, [United States], 2024
+                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      National Survey of Artists, [United States], 2024                 Page i
+
+
+                                      CONTENTS
+
+
+      item                                                                page
+
+      Q9A                Sales                                               1
+      Q9B                Awards                                              1
+      Q9_EMP             Employment                                          1
+      Q9C_1              Employment: Full-/part-time work  (not self-empl    1
+      Q9C_2              Employment: Self-employment income                  2
+      Q9C_3              Employment: Stipends or honoraria                   2
+      Q9C_4              Employment: I did not receive money or income fr    2
+      Q9C_DK             Employment: Don't know                              2
+      Q9C_NR             Employment: No response                             2
+      Q9_PASS            Passive income                                      3
+      Q9D_1              Passive income: Royalties, copyright permissions    3
+      Q9D_2              Passive income: Interest, dividends, or rental a    3
+      Q9D_3              Passive income: An estate, trust, or inheritance    3
+      Q9D_4              Passive income: I did not receive money or incom    4
+      Q9D_DK             Passive income: Don't know                          4
+      Q9D_NR             Passive income: No response                         4
+      Q9E                Retirement income                                   4
+      Q9_PUB             Public assistance                                   5
+      Q9F_1              Public assistance: State or local welfare           5
+      Q9F_2              Public assistance: Social Security income           5
+      Q9F_3              Public assistance: Unemployment income              5
+      Q9F_4              Public assistance: Veterans (VA) payments           6
+      Q9F_5              Public assistance: Workers' compensation            6
+      Q9F_6              Public assistance: I did not receive money or in    6
+      Q9F_DK             Public assistance: Don't know                       6
+      Q9F_NR             Public assistance: No response                      6
+      Q10_1              Financial support A: Crowdfunding or online patr    7
+      Q10_2              Financial support A: Mutual aid                     7
+      Q10_3              Financial support A: Bartered exchange              7
+      Q10_4              Financial support A: None of these                  7
+      Q10_DK             Financial support A: Don't know                     7
+      Q10_NR             Financial support A: No response                    8
+      Q11_1              Financial support B: Family or friends who live     8
+      Q11_2              Financial support B: Family or friends who live     8
+      Q11_3              Financial support B: None of these                  8
+      Q11_DK             Financial support B: Don't know                     8
+      Q11_NR             Financial support B: No response                    9
+      Q12                Any jobs or other paid activities in past 12 mon    9
+      Q13                Any jobs or other paid activities in past 12 mon    9
+      PAID_WRK           Held any job in the past 12 months                  9
+      CURR_JOBS          Number of jobs currently held                      10
+      TEMP_TOTAL         Total number of temporary jobs in past 12 months   10
+      PT_TOTAL           Total number of part-time jobs in past 12 months   10
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page ii
+
+
+      item                                                                page
+
+      Q14_R              Main job: Arts-related occupation - recoded        11
+      IND_ARTS1          Arts vs. non-arts occupation: Main job             11
+      Q19                Main job: Currently doing this job/paid activity   11
+      Q16                Main job: Work for employer vs. self-employed      12
+      Q20                Main job: Temporary job/paid activity              12
+      Q21_CAT            Hours worked per week at main job - categorical    12
+      PT_1               Main job: Part-time job/paid activity (less than   12
+      Q22_CAT            Total earnings from main job in the past 12 mont   13
+      Q23R1              Had a second job in the past 12 months             13
+      Q23R2              Had a third job in the past 12 months              13
+      Q24R1_R            Second job: Arts-related occupation - recoded      14
+      IND_ARTS2          Arts vs. non-arts occupation: Job 2                14
+      IND_ARTS3          Arts vs. non-arts occupation: Job 3                14
+      Q26R1              Second job: Work for employer vs. self-employed    15
+      Q26R2              Third job: Work for employer vs. self-employed     15
+      Q29R1              Second job: Currently doing this job/paid activi   15
+      Q29R2              Third job: Currently doing this job/paid activit   15
+      Q30R1              Second job: Temporary job/paid activity            16
+      Q30R2              Third job: Temporary job/paid activity             16
+      Q31R1_CAT          Hours worked per week at job 2 - categorical       16
+      Q31R2_CAT          Hours worked per week at job 3 - categorical       16
+      PT_2               Second job: Part-time job/paid activity (less th   17
+      PT_3               Third job: Part-time job/paid activity (less tha   17
+      Q32R1_CAT          Total earnings from second job in the past 12 mo   17
+      Q32R2_CAT          Total earnings from third job in the past 12 mon   18
+      Q53                Main reason for working part-time at one or more   18
+      Q57                Main reason for not doing any jobs or paid activ   18
+      Q58A_1             Unpaid/volunteer/cultural activity? Music: Unpai   19
+      Q58A_2             Unpaid/volunteer/cultural activity? Music: Volun   19
+      Q58A_3             Unpaid/volunteer/cultural activity? Music: Cultu   19
+      Q58A_4             Unpaid/volunteer/cultural activity? Music: None    19
+      Q58A_DK            Unpaid/volunteer/cultural activity? Music: Don't   19
+      Q58A_NR            Unpaid/volunteer/cultural activity? Music: No re   20
+      Q58B_1             Unpaid/volunteer/cultural activity? Dance: Unpai   20
+      Q58B_2             Unpaid/volunteer/cultural activity? Dance: Volun   20
+      Q58B_3             Unpaid/volunteer/cultural activity? Dance: Cultu   20
+      Q58B_4             Unpaid/volunteer/cultural activity? Dance: None    20
+      Q58B_DK            Unpaid/volunteer/cultural activity? Dance: Don't   21
+      Q58B_NR            Unpaid/volunteer/cultural activity? Dance: No re   21
+      Q58C_1             Unpaid/volunteer/cultural activity? Theater: Unp   21
+      Q58C_2             Unpaid/volunteer/cultural activity? Theater: Vol   21
+      Q58C_3             Unpaid/volunteer/cultural activity? Theater: Cul   21
+      Q58C_4             Unpaid/volunteer/cultural activity? Theater: Non   22
+      Q58C_DK            Unpaid/volunteer/cultural activity? Theater: Don   22
+      Q58C_NR            Unpaid/volunteer/cultural activity? Theater: No    22
+      Q58D_1             Unpaid/volunteer/cultural activity? Comedy: Unpa   22
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024               Page iii
+
+
+      item                                                                page
+
+      Q58D_2             Unpaid/volunteer/cultural activity? Comedy: Volu   22
+      Q58D_3             Unpaid/volunteer/cultural activity? Comedy: Cult   23
+      Q58D_4             Unpaid/volunteer/cultural activity? Comedy: None   23
+      Q58D_DK            Unpaid/volunteer/cultural activity? Comedy: Don'   23
+      Q58D_NR            Unpaid/volunteer/cultural activity? Comedy: No r   23
+      Q58E_1             Unpaid/volunteer/cultural activity? Circus or ac   23
+      Q58E_2             Unpaid/volunteer/cultural activity? Circus or ac   24
+      Q58E_3             Unpaid/volunteer/cultural activity? Circus or ac   24
+      Q58E_4             Unpaid/volunteer/cultural activity? Circus or ac   24
+      Q58E_DK            Unpaid/volunteer/cultural activity? Circus or ac   24
+      Q58E_NR            Unpaid/volunteer/cultural activity? Circus or ac   24
+      Q58F_1             Unpaid/volunteer/cultural activity? Mime or pupp   25
+      Q58F_2             Unpaid/volunteer/cultural activity? Mime or pupp   25
+      Q58F_3             Unpaid/volunteer/cultural activity? Mime or pupp   25
+      Q58F_4             Unpaid/volunteer/cultural activity? Mime or pupp   25
+      Q58F_DK            Unpaid/volunteer/cultural activity? Mime or pupp   25
+      Q58F_NR            Unpaid/volunteer/cultural activity? Mime or pupp   26
+      Q58G_1             Unpaid/volunteer/cultural activity? Painting: Un   26
+      Q58G_2             Unpaid/volunteer/cultural activity? Painting: Vo   26
+      Q58G_3             Unpaid/volunteer/cultural activity? Painting: Cu   26
+      Q58G_4             Unpaid/volunteer/cultural activity? Painting: No   26
+      Q58G_DK            Unpaid/volunteer/cultural activity? Painting: Do   27
+      Q58G_NR            Unpaid/volunteer/cultural activity? Painting: No   27
+      Q58H_1             Unpaid/volunteer/cultural activity? Photography:   27
+      Q58H_2             Unpaid/volunteer/cultural activity? Photography:   27
+      Q58H_3             Unpaid/volunteer/cultural activity? Photography:   27
+      Q58H_4             Unpaid/volunteer/cultural activity? Photography:   28
+      Q58H_DK            Unpaid/volunteer/cultural activity? Photography:   28
+      Q58H_NR            Unpaid/volunteer/cultural activity? Photography:   28
+      Q58I_1             Unpaid/volunteer/cultural activity? Drawing or i   28
+      Q58I_2             Unpaid/volunteer/cultural activity? Drawing or i   28
+      Q58I_3             Unpaid/volunteer/cultural activity? Drawing or i   29
+      Q58I_4             Unpaid/volunteer/cultural activity? Drawing or i   29
+      Q58I_DK            Unpaid/volunteer/cultural activity? Drawing or i   29
+      Q58I_NR            Unpaid/volunteer/cultural activity? Drawing or i   29
+      Q58J_1             Unpaid/volunteer/cultural activity? Printmaking:   29
+      Q58J_2             Unpaid/volunteer/cultural activity? Printmaking:   30
+      Q58J_3             Unpaid/volunteer/cultural activity? Printmaking:   30
+      Q58J_4             Unpaid/volunteer/cultural activity? Printmaking:   30
+      Q58J_DK            Unpaid/volunteer/cultural activity? Printmaking:   30
+      Q58J_NR            Unpaid/volunteer/cultural activity? Printmaking:   30
+      Q58K_1             Unpaid/volunteer/cultural activity? Sculpture: U   31
+      Q58K_2             Unpaid/volunteer/cultural activity? Sculpture: V   31
+      Q58K_3             Unpaid/volunteer/cultural activity? Sculpture: C   31
+      Q58K_4             Unpaid/volunteer/cultural activity? Sculpture: N   31
+      Q58K_DK            Unpaid/volunteer/cultural activity? Sculpture: D   31
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page iv
+
+
+      item                                                                page
+
+      Q58K_NR            Unpaid/volunteer/cultural activity? Sculpture: N   32
+      Q58L_1             Unpaid/volunteer/cultural activity? Film or vide   32
+      Q58L_2             Unpaid/volunteer/cultural activity? Film or vide   32
+      Q58L_3             Unpaid/volunteer/cultural activity? Film or vide   32
+      Q58L_4             Unpaid/volunteer/cultural activity? Film or vide   32
+      Q58L_DK            Unpaid/volunteer/cultural activity? Film or vide   33
+      Q58L_NR            Unpaid/volunteer/cultural activity? Film or vide   33
+      Q58M_1             Unpaid/volunteer/cultural activity? Animation: U   33
+      Q58M_2             Unpaid/volunteer/cultural activity? Animation: V   33
+      Q58M_3             Unpaid/volunteer/cultural activity? Animation: C   33
+      Q58M_4             Unpaid/volunteer/cultural activity? Animation: N   34
+      Q58M_DK            Unpaid/volunteer/cultural activity? Animation: D   34
+      Q58M_NR            Unpaid/volunteer/cultural activity? Animation: N   34
+      Q58N_1             Unpaid/volunteer/cultural activity? Digital art:   34
+      Q58N_2             Unpaid/volunteer/cultural activity? Digital art:   34
+      Q58N_3             Unpaid/volunteer/cultural activity? Digital art:   35
+      Q58N_4             Unpaid/volunteer/cultural activity? Digital art:   35
+      Q58N_DK            Unpaid/volunteer/cultural activity? Digital art:   35
+      Q58N_NR            Unpaid/volunteer/cultural activity? Digital art:   35
+      Q58O_1             Unpaid/volunteer/cultural activity? Fiction: Unp   35
+      Q58O_2             Unpaid/volunteer/cultural activity? Fiction: Vol   36
+      Q58O_3             Unpaid/volunteer/cultural activity? Fiction: Cul   36
+      Q58O_4             Unpaid/volunteer/cultural activity? Fiction: Non   36
+      Q58O_DK            Unpaid/volunteer/cultural activity? Fiction: Don   36
+      Q58O_NR            Unpaid/volunteer/cultural activity? Fiction: No    36
+      Q58P_1             Unpaid/volunteer/cultural activity? Creative non   37
+      Q58P_2             Unpaid/volunteer/cultural activity? Creative non   37
+      Q58P_3             Unpaid/volunteer/cultural activity? Creative non   37
+      Q58P_4             Unpaid/volunteer/cultural activity? Creative non   37
+      Q58P_DK            Unpaid/volunteer/cultural activity? Creative non   37
+      Q58P_NR            Unpaid/volunteer/cultural activity? Creative non   38
+      Q58Q_1             Unpaid/volunteer/cultural activity? Poetry: Unpa   38
+      Q58Q_2             Unpaid/volunteer/cultural activity? Poetry: Volu   38
+      Q58Q_3             Unpaid/volunteer/cultural activity? Poetry: Cult   38
+      Q58Q_4             Unpaid/volunteer/cultural activity? Poetry: None   38
+      Q58Q_DK            Unpaid/volunteer/cultural activity? Poetry: Don'   39
+      Q58Q_NR            Unpaid/volunteer/cultural activity? Poetry: No r   39
+      Q58R_1             Unpaid/volunteer/cultural activity? Spoken word:   39
+      Q58R_2             Unpaid/volunteer/cultural activity? Spoken word:   39
+      Q58R_3             Unpaid/volunteer/cultural activity? Spoken word:   39
+      Q58R_4             Unpaid/volunteer/cultural activity? Spoken word:   40
+      Q58R_DK            Unpaid/volunteer/cultural activity? Spoken word:   40
+      Q58R_NR            Unpaid/volunteer/cultural activity? Spoken word:   40
+      Q58S_1             Unpaid/volunteer/cultural activity? Theatrical p   40
+      Q58S_2             Unpaid/volunteer/cultural activity? Theatrical p   40
+      Q58S_3             Unpaid/volunteer/cultural activity? Theatrical p   41
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                 Page v
+
+
+      item                                                                page
+
+      Q58S_4             Unpaid/volunteer/cultural activity? Theatrical p   41
+      Q58S_DK            Unpaid/volunteer/cultural activity? Theatrical p   41
+      Q58S_NR            Unpaid/volunteer/cultural activity? Theatrical p   41
+      Q58T_1             Unpaid/volunteer/cultural activity? Screenplays:   41
+      Q58T_2             Unpaid/volunteer/cultural activity? Screenplays:   42
+      Q58T_3             Unpaid/volunteer/cultural activity? Screenplays:   42
+      Q58T_4             Unpaid/volunteer/cultural activity? Screenplays:   42
+      Q58T_DK            Unpaid/volunteer/cultural activity? Screenplays:   42
+      Q58T_NR            Unpaid/volunteer/cultural activity? Screenplays:   42
+      Q58U_1             Unpaid/volunteer/cultural activity? Fiber, texti   43
+      Q58U_2             Unpaid/volunteer/cultural activity? Fiber, texti   43
+      Q58U_3             Unpaid/volunteer/cultural activity? Fiber, texti   43
+      Q58U_4             Unpaid/volunteer/cultural activity? Fiber, texti   43
+      Q58U_DK            Unpaid/volunteer/cultural activity? Fiber, texti   43
+      Q58U_NR            Unpaid/volunteer/cultural activity? Fiber, texti   44
+      Q58V_1             Unpaid/volunteer/cultural activity? Ceramics, cl   44
+      Q58V_2             Unpaid/volunteer/cultural activity? Ceramics, cl   44
+      Q58V_3             Unpaid/volunteer/cultural activity? Ceramics, cl   44
+      Q58V_4             Unpaid/volunteer/cultural activity? Ceramics, cl   44
+      Q58V_DK            Unpaid/volunteer/cultural activity? Ceramics, cl   45
+      Q58V_NR            Unpaid/volunteer/cultural activity? Ceramics, cl   45
+      Q58W_1             Unpaid/volunteer/cultural activity? Metalworking   45
+      Q58W_2             Unpaid/volunteer/cultural activity? Metalworking   45
+      Q58W_3             Unpaid/volunteer/cultural activity? Metalworking   45
+      Q58W_4             Unpaid/volunteer/cultural activity? Metalworking   46
+      Q58W_DK            Unpaid/volunteer/cultural activity? Metalworking   46
+      Q58W_NR            Unpaid/volunteer/cultural activity? Metalworking   46
+      Q58X_1             Unpaid/volunteer/cultural activity? Woodworking:   46
+      Q58X_2             Unpaid/volunteer/cultural activity? Woodworking:   46
+      Q58X_3             Unpaid/volunteer/cultural activity? Woodworking:   47
+      Q58X_4             Unpaid/volunteer/cultural activity? Woodworking:   47
+      Q58X_DK            Unpaid/volunteer/cultural activity? Woodworking:   47
+      Q58X_NR            Unpaid/volunteer/cultural activity? Woodworking:   47
+      Q58Y_1             Unpaid/volunteer/cultural activity? Glass workin   47
+      Q58Y_2             Unpaid/volunteer/cultural activity? Glass workin   48
+      Q58Y_3             Unpaid/volunteer/cultural activity? Glass workin   48
+      Q58Y_4             Unpaid/volunteer/cultural activity? Glass workin   48
+      Q58Y_DK            Unpaid/volunteer/cultural activity? Glass workin   48
+      Q58Y_NR            Unpaid/volunteer/cultural activity? Glass workin   48
+      Q58Z_1             Unpaid/volunteer/cultural activity? Jewelry maki   49
+      Q58Z_2             Unpaid/volunteer/cultural activity? Jewelry maki   49
+      Q58Z_3             Unpaid/volunteer/cultural activity? Jewelry maki   49
+      Q58Z_4             Unpaid/volunteer/cultural activity? Jewelry maki   49
+      Q58Z_DK            Unpaid/volunteer/cultural activity? Jewelry maki   49
+      Q58Z_NR            Unpaid/volunteer/cultural activity? Jewelry maki   50
+      Q58AA_1            Unpaid/volunteer/cultural activity? Installation   50
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page vi
+
+
+      item                                                                page
+
+      Q58AA_2            Unpaid/volunteer/cultural activity? Installation   50
+      Q58AA_3            Unpaid/volunteer/cultural activity? Installation   50
+      Q58AA_4            Unpaid/volunteer/cultural activity? Installation   50
+      Q58AA_DK           Unpaid/volunteer/cultural activity? Installation   51
+      Q58AA_NR           Unpaid/volunteer/cultural activity? Installation   51
+      Q58BB_1            Unpaid/volunteer/cultural activity? Interdiscipl   51
+      Q58BB_2            Unpaid/volunteer/cultural activity? Interdiscipl   51
+      Q58BB_3            Unpaid/volunteer/cultural activity? Interdiscipl   51
+      Q58BB_4            Unpaid/volunteer/cultural activity? Interdiscipl   52
+      Q58BB_DK           Unpaid/volunteer/cultural activity? Interdiscipl   52
+      Q58BB_NR           Unpaid/volunteer/cultural activity? Interdiscipl   52
+      Q58CC_1            Unpaid/volunteer/cultural activity? Multidiscipl   52
+      Q58CC_2            Unpaid/volunteer/cultural activity? Multidiscipl   52
+      Q58CC_3            Unpaid/volunteer/cultural activity? Multidiscipl   53
+      Q58CC_4            Unpaid/volunteer/cultural activity? Multidiscipl   53
+      Q58CC_DK           Unpaid/volunteer/cultural activity? Multidiscipl   53
+      Q58CC_NR           Unpaid/volunteer/cultural activity? Multidiscipl   53
+      Q58DD_1            Unpaid/volunteer/cultural activity? Performance    53
+      Q58DD_2            Unpaid/volunteer/cultural activity? Performance    54
+      Q58DD_3            Unpaid/volunteer/cultural activity? Performance    54
+      Q58DD_4            Unpaid/volunteer/cultural activity? Performance    54
+      Q58DD_DK           Unpaid/volunteer/cultural activity? Performance    54
+      Q58DD_NR           Unpaid/volunteer/cultural activity? Performance    54
+      Q58EE_1            Unpaid/volunteer/cultural activity? Social pract   55
+      Q58EE_2            Unpaid/volunteer/cultural activity? Social pract   55
+      Q58EE_3            Unpaid/volunteer/cultural activity? Social pract   55
+      Q58EE_4            Unpaid/volunteer/cultural activity? Social pract   55
+      Q58EE_DK           Unpaid/volunteer/cultural activity? Social pract   55
+      Q58EE_NR           Unpaid/volunteer/cultural activity? Social pract   56
+      Q59                Provide unpaid assistance or care to a family me   56
+      Q60_1              Assets: Checking or savings account(s)             56
+      Q60_2              Assets: Retirement account(s)                      56
+      Q60_3              Assets: Financial investments (not in a retireme   57
+      Q60_4              Assets: Ownership of your primary home             57
+      Q60_5              Assets: Ownership of other real estate (not incl   57
+      Q60_6              Assets: Ownership of your primary vehicle          57
+      Q60_7              Assets: Ownership in a business (non-stock)        57
+      Q60_8              Assets: Other financial assets                     58
+      Q60_9              Assets: None of these                              58
+      Q60_DK             Assets: Don't know                                 58
+      Q60_NR             Assets: No response                                58
+      Q61_R              Total value of assets - recoded                    59
+      Q62_1              Debts: Mortgage                                    59
+      Q62_2              Debts: Car loan(s)                                 59
+      Q62_3              Debts: School loan(s)                              60
+      Q62_4              Debts: Credit card debt                            60
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024               Page vii
+
+
+      item                                                                page
+
+      Q62_5              Debts: Medical debt                                60
+      Q62_6              Debts: Other debts or loans                        60
+      Q62_7              Debts: None of these                               60
+      Q62_DK             Debts: Don't know                                  61
+      Q62_NR             Debts: No response                                 61
+      Q63_R              Total value of debts - recoded                     61
+      Q64_1_TC           Household members: Spouse/partner - top-coded      62
+      Q64_2_TC           Household members: Dependent children - top-code   62
+      Q64_3_TC           Household members: Other children - top-coded      62
+      Q64_4_TC           Household members: Other dependent relatives - t   62
+      HH_SIZE_TC         Total household size - top-coded                   63
+      Q65_1              Household income sources: Employment (wages) for   63
+      Q65_2              Household income sources: Social Security          63
+      Q65_3              Household income sources: Pensions or retirement   63
+      Q65_4              Household income sources: Business, farm, or sel   64
+      Q65_5              Household income sources: Public assistance (inc   64
+      Q65_6              Household income sources: Interest or dividends    64
+      Q65_7              Household income sources: Family or friends outs   64
+      Q65_8              Household income sources: Capital gains or rent    64
+      Q65_9              Household income sources: Alimony                  65
+      Q65_10             Household income sources: Other                    65
+      Q65_DK             Household income sources: Don't know               65
+      Q65_NR             Household income sources: No response              65
+      INCOME             Household income                                   66
+      Q67_1              Benefits: Health insurance                         66
+      Q67_2              Benefits: Dental insurance                         66
+      Q67_3              Benefits: Vision insurance                         66
+      Q67_4              Benefits: Life insurance (individual or group)     67
+      Q67_5              Benefits: Retirement including employer contribu   67
+      Q67_6              Benefits: Profit sharing and/or stock options      67
+      Q67_7              Benefits: Paid holidays or vacation                67
+      Q67_8              Benefits: Paid sick leave                          67
+      Q67_9              Benefits: Paid parental or family leave            68
+      Q67_10             Benefits: Professional development assistance an   68
+      Q67_11             Benefits: Free/reduced-cost studio space or art    68
+      Q67_12             Benefits: Other benefit(s)                         68
+      Q67_DK             Benefits: Don't know                               68
+      Q67_NR             Benefits: No response                              69
+      Q68A_1             Main job: Health insurance                         69
+      Q68A_2             Main job: Dental insurance                         69
+      Q68A_3             Main job: Vision insurance                         69
+      Q68A_DK            Main job: Don't know                               69
+      Q68A_NR            Main job: No response                              70
+      Q68B_1             Second job: Health insurance                       70
+      Q68B_2             Second job: Dental insurance                       70
+      Q68B_3             Second job: Vision insurance                       70
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024              Page viii
+
+
+      item                                                                page
+
+      Q68B_DK            Second job: Don't know                             70
+      Q68B_NR            Second job: No response                            71
+      Q68C_1             Third job: Health insurance                        71
+      Q68C_2             Third job: Dental insurance                        71
+      Q68C_3             Third job: Vision insurance                        71
+      Q68C_DK            Third job: Don't know                              71
+      Q68C_NR            Third job: No response                             72
+      Q68E_1             Spouse or partner's job: Health insurance          72
+      Q68E_2             Spouse or partner's job: Dental insurance          72
+      Q68E_3             Spouse or partner's job: Vision insurance          72
+      Q68E_DK            Spouse or partner's job: Don't know                72
+      Q68E_NR            Spouse or partner's job: No response               73
+      Q68F_1             Directly purchased from an insurance company: He   73
+      Q68F_2             Directly purchased from an insurance company: De   73
+      Q68F_3             Directly purchased from an insurance company: Vi   73
+      Q68F_DK            Directly purchased from an insurance company: Do   73
+      Q68F_NR            Directly purchased from an insurance company: No   74
+      Q68G_1             Health insurance marketplace: Health insurance     74
+      Q68G_2             Health insurance marketplace: Dental insurance     74
+      Q68G_3             Health insurance marketplace: Vision insurance     74
+      Q68G_DK            Health insurance marketplace: Don't know           74
+      Q68G_NR            Health insurance marketplace: No response          75
+      Q68H_1             Medicare: Health insurance                         75
+      Q68H_2             Medicare: Dental insurance                         75
+      Q68H_3             Medicare: Vision insurance                         75
+      Q68H_DK            Medicare: Don't know                               75
+      Q68H_NR            Medicare: No response                              76
+      Q68I_1             Medicaid: Health insurance                         76
+      Q68I_2             Medicaid: Dental insurance                         76
+      Q68I_3             Medicaid: Vision insurance                         76
+      Q68I_DK            Medicaid: Don't know                               76
+      Q68I_NR            Medicaid: No response                              77
+      Q68J_1             Office of Veteran's Affairs: Health insurance      77
+      Q68J_2             Office of Veteran's Affairs: Dental insurance      77
+      Q68J_3             Office of Veteran's Affairs: Vision insurance      77
+      Q68J_DK            Office of Veteran's Affairs: Don't know            77
+      Q68J_NR            Office of Veteran's Affairs: No response           78
+      Q68K_1             Union: Health insurance                            78
+      Q68K_2             Union: Dental insurance                            78
+      Q68K_3             Union: Vision insurance                            78
+      Q68K_DK            Union: Don't know                                  78
+      Q68K_NR            Union: No response                                 79
+      Q68L_1             Some other source: Health insurance                79
+      Q68L_2             Some other source: Dental insurance                79
+      Q68L_3             Some other source: Vision insurance                79
+      Q68L_DK            Some other source: Don't know                      79
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page ix
+
+
+      item                                                                page
+
+      Q68L_NR            Some other source: No response                     80
+      Q69                Overall health rating                              80
+      Q70                Mental/emotional health rating                     80
+      Q73                Self-identification as a person with a disabilit   81
+      Q74                Manages a chronic health condition                 81
+      Q75A               Worry: Having enough to eat                        81
+      Q75B               Worry: Being able to work as many hours as you w   82
+      Q75C               Worry: Being able to pay your rent or mortgage     82
+      Q75D               Worry: Being able to pay your gas, oil, or elect   82
+      Q75E               Worry: Being able to pay your debts                83
+      Q75F               Worry: Being able to pay for medical costs         83
+      AGE_CAT            Respondent age - categorical                       83
+      GENDER_R           Gender identity - recoded                          84
+      RACETHNICITY       Combined race/ethnicity                            84
+      EDUC_R             Education (highest degree received) - recoded      84
+      ARTS_DEGREE_PG     Holds an arts-related post-graduate or professio   84
+      ARTS_DEGREE_UG     Holds an arts-related bachelor's or associate de   85
+      MARITAL_R          Marital status - recoded                           85
+      Q90_R              Sexual orientation - recoded                       85
+      RAO_REGION         Regional Arts Organizations geographic regions     85
+      METRO              Metro vs. non-metro area                           86
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                 Page 1
+
+
+      Q9A                Sales
+
+           VALUE  LABEL
+               1  The direct sale, reproduction, or representation of my artwork
+               2  I did not receive money or income from sales
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/1-2
+
+      ________________________________________________________________________
+
+      Q9B                Awards
+
+           VALUE  LABEL
+               1  Grants, awards, fellowships, residencies, or similar funding
+               2  I did not receive money or income from awards
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/4-5
+
+      ________________________________________________________________________
+
+      Q9_EMP             Employment
+
+           VALUE  LABEL
+               1  One or more employment sources
+               2  I did not receive money or income from employment
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/7-8
+
+      ________________________________________________________________________
+
+      Q9C_1              Employment: Full-/part-time work  (not self-employed)
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/10
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                 Page 2
+
+
+      Q9C_2              Employment: Self-employment income
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/12
+
+      ________________________________________________________________________
+
+      Q9C_3              Employment: Stipends or honoraria
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/14
+
+      ________________________________________________________________________
+
+      Q9C_4              Employment: I did not receive money or income from these
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/16
+
+      ________________________________________________________________________
+
+      Q9C_DK             Employment: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/18
+
+      ________________________________________________________________________
+
+      Q9C_NR             Employment: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/20
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                 Page 3
+
+
+      Q9_PASS            Passive income
+
+           VALUE  LABEL
+               1  One or more passive income sources
+               2  I did not receive money or income from passive sources
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/22-23
+
+      ________________________________________________________________________
+
+      Q9D_1              Passive income: Royalties, copyright permissions, loan fees
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/25
+
+      ________________________________________________________________________
+
+      Q9D_2              Passive income: Interest, dividends, or rental assets
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/27
+
+      ________________________________________________________________________
+
+      Q9D_3              Passive income: An estate, trust, or inheritance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/29
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                 Page 4
+
+
+      Q9D_4              Passive income: I did not receive money or income from these
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/31
+
+      ________________________________________________________________________
+
+      Q9D_DK             Passive income: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/33
+
+      ________________________________________________________________________
+
+      Q9D_NR             Passive income: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/35
+
+      ________________________________________________________________________
+
+      Q9E                Retirement income
+
+           VALUE  LABEL
+               1  Retirement income or pensions
+               2  I did not receive money or income from retirement accounts or pensions
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/37-38
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                 Page 5
+
+
+      Q9_PUB             Public assistance
+
+           VALUE  LABEL
+               1  One or more public assistance sources
+               2  I did not receive money or income from public assistance
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/40-41
+
+      ________________________________________________________________________
+
+      Q9F_1              Public assistance: State or local welfare
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/43
+
+      ________________________________________________________________________
+
+      Q9F_2              Public assistance: Social Security income
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/45
+
+      ________________________________________________________________________
+
+      Q9F_3              Public assistance: Unemployment income
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/47
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                 Page 6
+
+
+      Q9F_4              Public assistance: Veterans (VA) payments
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/49
+
+      ________________________________________________________________________
+
+      Q9F_5              Public assistance: Workers' compensation
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/51
+
+      ________________________________________________________________________
+
+      Q9F_6              Public assistance: I did not receive money or income from these
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/53
+
+      ________________________________________________________________________
+
+      Q9F_DK             Public assistance: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/55
+
+      ________________________________________________________________________
+
+      Q9F_NR             Public assistance: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/57
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                 Page 7
+
+
+      Q10_1              Financial support A: Crowdfunding or online patronage
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/59
+
+      ________________________________________________________________________
+
+      Q10_2              Financial support A: Mutual aid
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/61
+
+      ________________________________________________________________________
+
+      Q10_3              Financial support A: Bartered exchange
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/63
+
+      ________________________________________________________________________
+
+      Q10_4              Financial support A: None of these
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/65
+
+      ________________________________________________________________________
+
+      Q10_DK             Financial support A: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/67
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                 Page 8
+
+
+      Q10_NR             Financial support A: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/69
+
+      ________________________________________________________________________
+
+      Q11_1              Financial support B: Family or friends who live in your household
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/71
+
+      ________________________________________________________________________
+
+      Q11_2              Financial support B: Family or friends who live outside your household
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/73
+
+      ________________________________________________________________________
+
+      Q11_3              Financial support B: None of these
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/75
+
+      ________________________________________________________________________
+
+      Q11_DK             Financial support B: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/77
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                 Page 9
+
+
+      Q11_NR             Financial support B: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/79
+
+      ________________________________________________________________________
+
+      Q12                Any jobs or other paid activities in past 12 months
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/81-82
+
+      ________________________________________________________________________
+
+      Q13                Any jobs or other paid activities in past 12 months: Confirmation
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/84-85
+
+      ________________________________________________________________________
+
+      PAID_WRK           Held any job in the past 12 months
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/87-88
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 10
+
+
+      CURR_JOBS          Number of jobs currently held
+
+           VALUE  LABEL
+               0  0
+               1  1
+               2  2
+               3  3+
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/90-91
+
+      ________________________________________________________________________
+
+      TEMP_TOTAL         Total number of temporary jobs in past 12 months
+
+           VALUE  LABEL
+               0  0
+               1  1
+               2  2
+               3  3+
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/93-94
+
+      ________________________________________________________________________
+
+      PT_TOTAL           Total number of part-time jobs in past 12 months
+
+           VALUE  LABEL
+               0  0
+               1  1
+               2  2
+               3  3+
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/96-97
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 11
+
+
+      Q14_R              Main job: Arts-related occupation - recoded
+
+           VALUE  LABEL
+               1  Performing artist
+               2  Visual artist
+               3  Craft artist
+               4  Writer, author, or editor
+               5  Designer
+               6  Arts educator
+               7  Arts administrator or manager
+               8  Other arts or design job/activity
+               9  Non-arts occupation
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/99-100
+
+      ________________________________________________________________________
+
+      IND_ARTS1          Arts vs. non-arts occupation: Main job
+
+           VALUE  LABEL
+               1  Arts occupation
+               2  Non-arts occupation
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/102-103
+
+      ________________________________________________________________________
+
+      Q19                Main job: Currently doing this job/paid activity
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/105-106
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 12
+
+
+      Q16                Main job: Work for employer vs. self-employed
+
+           VALUE  LABEL
+               1  An employee for a company, organization, or person other than myself
+               2  A self-employed worker (business owner, independent contractor, freelance worker)
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/108-109
+
+      ________________________________________________________________________
+
+      Q20                Main job: Temporary job/paid activity
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/111-112
+
+      ________________________________________________________________________
+
+      Q21_CAT            Hours worked per week at main job - categorical
+
+           VALUE  LABEL
+               1  1-19
+               2  20-39
+               3  40+
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/114-115
+
+      ________________________________________________________________________
+
+      PT_1               Main job: Part-time job/paid activity (less than 35 hours per week)
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/117-118
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 13
+
+
+      Q22_CAT            Total earnings from main job in the past 12 months - categorical
+
+           VALUE  LABEL
+               1  Under $2,500
+               2  $2,500 to under $20,000
+               3  $20,000 to under $50,000
+               4  $50,000 to under $75,000
+               5  $75,000 or more
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/120-121
+
+      ________________________________________________________________________
+
+      Q23R1              Had a second job in the past 12 months
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/123-124
+
+      ________________________________________________________________________
+
+      Q23R2              Had a third job in the past 12 months
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/126-127
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 14
+
+
+      Q24R1_R            Second job: Arts-related occupation - recoded
+
+           VALUE  LABEL
+               1  Performing artist
+               2  Visual artist
+               3  Craft artist
+               4  Writer, author, or editor
+               5  Designer
+               6  Arts educator
+               7  Arts administrator or manager
+               8  Other arts or design job/activity
+               9  Non-arts occupation
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/129-130
+
+      ________________________________________________________________________
+
+      IND_ARTS2          Arts vs. non-arts occupation: Job 2
+
+           VALUE  LABEL
+               1  Arts occupation
+               2  Non-arts occupation
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/132-133
+
+      ________________________________________________________________________
+
+      IND_ARTS3          Arts vs. non-arts occupation: Job 3
+
+           VALUE  LABEL
+               1  Arts occupation
+               2  Non-arts occupation
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/135-136
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 15
+
+
+      Q26R1              Second job: Work for employer vs. self-employed
+
+           VALUE  LABEL
+               1  An employee for a company, organization, or person other than myself
+               2  A self-employed worker (includes business owner, independent contractor, freelance worker, app-based worker, gig worker)
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/138-139
+
+      ________________________________________________________________________
+
+      Q26R2              Third job: Work for employer vs. self-employed
+
+           VALUE  LABEL
+               1  An employee for a company, organization, or person other than myself
+               2  A self-employed worker (includes business owner, independent contractor, freelance worker, app-based worker, gig worker)
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/141-142
+
+      ________________________________________________________________________
+
+      Q29R1              Second job: Currently doing this job/paid activity
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/144-145
+
+      ________________________________________________________________________
+
+      Q29R2              Third job: Currently doing this job/paid activity
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/147-148
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 16
+
+
+      Q30R1              Second job: Temporary job/paid activity
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/150-151
+
+      ________________________________________________________________________
+
+      Q30R2              Third job: Temporary job/paid activity
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/153-154
+
+      ________________________________________________________________________
+
+      Q31R1_CAT          Hours worked per week at job 2 - categorical
+
+           VALUE  LABEL
+               1  1-19
+               2  20-39
+               3  40+
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/156-157
+
+      ________________________________________________________________________
+
+      Q31R2_CAT          Hours worked per week at job 3 - categorical
+
+           VALUE  LABEL
+               1  1-19
+               2  20-39
+               3  40+
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/159-160
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 17
+
+
+      PT_2               Second job: Part-time job/paid activity (less than 35 hours per week)
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/162-163
+
+      ________________________________________________________________________
+
+      PT_3               Third job: Part-time job/paid activity (less than 35 hours per week)
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/165-166
+
+      ________________________________________________________________________
+
+      Q32R1_CAT          Total earnings from second job in the past 12 months - categorical
+
+           VALUE  LABEL
+               1  Under $2,500
+               2  $2,500 to under $20,000
+               3  $20,000 to under $50,000
+               4  $50,000 to under $75,000
+               5  $75,000 or more
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/168-169
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 18
+
+
+      Q32R2_CAT          Total earnings from third job in the past 12 months - categorical
+
+           VALUE  LABEL
+               1  Under $2,500
+               2  $2,500 to under $20,000
+               3  $20,000 to under $50,000
+               4  $50,000 to under $75,000
+               5  $75,000 or more
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/171-172
+
+      ________________________________________________________________________
+
+      Q53                Main reason for working part-time at one or more jobs
+
+           VALUE  LABEL
+               1  I have other full-time work in addition to this/these part-time job(s)
+               2  I could only find part-time work in this/these job(s)
+               3  My personal circumstances require me to work part-time
+               4  I prefer to work part-time at this/these job(s)
+               5  Other reason
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/174-175
+
+      ________________________________________________________________________
+
+      Q57                Main reason for not doing any jobs or paid activities in the past 12 months
+
+           VALUE  LABEL
+               1  Temporarily unable to work because of an injury
+               2  Temporarily unable to work because of an illness
+               3  Unable to work because of a chronic health condition or disability
+               4  Retired
+               5  Pregnancy/childbirth
+               6  Taking care of children/other persons
+               7  Going to school
+               8  Unable to find work
+               9  On layoff (temporary or indefinite)
+              10  Not interested in working at a job
+              11  Other
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/177-178
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 19
+
+
+      Q58A_1             Unpaid/volunteer/cultural activity? Music: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/180
+
+      ________________________________________________________________________
+
+      Q58A_2             Unpaid/volunteer/cultural activity? Music: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/182
+
+      ________________________________________________________________________
+
+      Q58A_3             Unpaid/volunteer/cultural activity? Music: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/184
+
+      ________________________________________________________________________
+
+      Q58A_4             Unpaid/volunteer/cultural activity? Music: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/186
+
+      ________________________________________________________________________
+
+      Q58A_DK            Unpaid/volunteer/cultural activity? Music: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/188
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 20
+
+
+      Q58A_NR            Unpaid/volunteer/cultural activity? Music: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/190
+
+      ________________________________________________________________________
+
+      Q58B_1             Unpaid/volunteer/cultural activity? Dance: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/192
+
+      ________________________________________________________________________
+
+      Q58B_2             Unpaid/volunteer/cultural activity? Dance: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/194
+
+      ________________________________________________________________________
+
+      Q58B_3             Unpaid/volunteer/cultural activity? Dance: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/196
+
+      ________________________________________________________________________
+
+      Q58B_4             Unpaid/volunteer/cultural activity? Dance: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/198
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 21
+
+
+      Q58B_DK            Unpaid/volunteer/cultural activity? Dance: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/200
+
+      ________________________________________________________________________
+
+      Q58B_NR            Unpaid/volunteer/cultural activity? Dance: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/202
+
+      ________________________________________________________________________
+
+      Q58C_1             Unpaid/volunteer/cultural activity? Theater: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/204
+
+      ________________________________________________________________________
+
+      Q58C_2             Unpaid/volunteer/cultural activity? Theater: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/206
+
+      ________________________________________________________________________
+
+      Q58C_3             Unpaid/volunteer/cultural activity? Theater: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/208
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 22
+
+
+      Q58C_4             Unpaid/volunteer/cultural activity? Theater: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/210
+
+      ________________________________________________________________________
+
+      Q58C_DK            Unpaid/volunteer/cultural activity? Theater: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/212
+
+      ________________________________________________________________________
+
+      Q58C_NR            Unpaid/volunteer/cultural activity? Theater: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/214
+
+      ________________________________________________________________________
+
+      Q58D_1             Unpaid/volunteer/cultural activity? Comedy: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/216
+
+      ________________________________________________________________________
+
+      Q58D_2             Unpaid/volunteer/cultural activity? Comedy: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/218
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 23
+
+
+      Q58D_3             Unpaid/volunteer/cultural activity? Comedy: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/220
+
+      ________________________________________________________________________
+
+      Q58D_4             Unpaid/volunteer/cultural activity? Comedy: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/222
+
+      ________________________________________________________________________
+
+      Q58D_DK            Unpaid/volunteer/cultural activity? Comedy: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/224
+
+      ________________________________________________________________________
+
+      Q58D_NR            Unpaid/volunteer/cultural activity? Comedy: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/226
+
+      ________________________________________________________________________
+
+      Q58E_1             Unpaid/volunteer/cultural activity? Circus or acrobatics: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/228
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 24
+
+
+      Q58E_2             Unpaid/volunteer/cultural activity? Circus or acrobatics: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/230
+
+      ________________________________________________________________________
+
+      Q58E_3             Unpaid/volunteer/cultural activity? Circus or acrobatics: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/232
+
+      ________________________________________________________________________
+
+      Q58E_4             Unpaid/volunteer/cultural activity? Circus or acrobatics: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/234
+
+      ________________________________________________________________________
+
+      Q58E_DK            Unpaid/volunteer/cultural activity? Circus or acrobatics: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/236
+
+      ________________________________________________________________________
+
+      Q58E_NR            Unpaid/volunteer/cultural activity? Circus or acrobatics: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/238
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 25
+
+
+      Q58F_1             Unpaid/volunteer/cultural activity? Mime or puppetry: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/240
+
+      ________________________________________________________________________
+
+      Q58F_2             Unpaid/volunteer/cultural activity? Mime or puppetry: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/242
+
+      ________________________________________________________________________
+
+      Q58F_3             Unpaid/volunteer/cultural activity? Mime or puppetry: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/244
+
+      ________________________________________________________________________
+
+      Q58F_4             Unpaid/volunteer/cultural activity? Mime or puppetry: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/246
+
+      ________________________________________________________________________
+
+      Q58F_DK            Unpaid/volunteer/cultural activity? Mime or puppetry: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/248
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 26
+
+
+      Q58F_NR            Unpaid/volunteer/cultural activity? Mime or puppetry: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/250
+
+      ________________________________________________________________________
+
+      Q58G_1             Unpaid/volunteer/cultural activity? Painting: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/252
+
+      ________________________________________________________________________
+
+      Q58G_2             Unpaid/volunteer/cultural activity? Painting: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/254
+
+      ________________________________________________________________________
+
+      Q58G_3             Unpaid/volunteer/cultural activity? Painting: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/256
+
+      ________________________________________________________________________
+
+      Q58G_4             Unpaid/volunteer/cultural activity? Painting: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/258
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 27
+
+
+      Q58G_DK            Unpaid/volunteer/cultural activity? Painting: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/260
+
+      ________________________________________________________________________
+
+      Q58G_NR            Unpaid/volunteer/cultural activity? Painting: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/262
+
+      ________________________________________________________________________
+
+      Q58H_1             Unpaid/volunteer/cultural activity? Photography: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/264
+
+      ________________________________________________________________________
+
+      Q58H_2             Unpaid/volunteer/cultural activity? Photography: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/266
+
+      ________________________________________________________________________
+
+      Q58H_3             Unpaid/volunteer/cultural activity? Photography: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/268
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 28
+
+
+      Q58H_4             Unpaid/volunteer/cultural activity? Photography: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/270
+
+      ________________________________________________________________________
+
+      Q58H_DK            Unpaid/volunteer/cultural activity? Photography: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/272
+
+      ________________________________________________________________________
+
+      Q58H_NR            Unpaid/volunteer/cultural activity? Photography: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/274
+
+      ________________________________________________________________________
+
+      Q58I_1             Unpaid/volunteer/cultural activity? Drawing or illustration: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/276
+
+      ________________________________________________________________________
+
+      Q58I_2             Unpaid/volunteer/cultural activity? Drawing or illustration: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/278
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 29
+
+
+      Q58I_3             Unpaid/volunteer/cultural activity? Drawing or illustration: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/280
+
+      ________________________________________________________________________
+
+      Q58I_4             Unpaid/volunteer/cultural activity? Drawing or illustration: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/282
+
+      ________________________________________________________________________
+
+      Q58I_DK            Unpaid/volunteer/cultural activity? Drawing or illustration: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/284
+
+      ________________________________________________________________________
+
+      Q58I_NR            Unpaid/volunteer/cultural activity? Drawing or illustration: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/286
+
+      ________________________________________________________________________
+
+      Q58J_1             Unpaid/volunteer/cultural activity? Printmaking: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/288
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 30
+
+
+      Q58J_2             Unpaid/volunteer/cultural activity? Printmaking: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/290
+
+      ________________________________________________________________________
+
+      Q58J_3             Unpaid/volunteer/cultural activity? Printmaking: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/292
+
+      ________________________________________________________________________
+
+      Q58J_4             Unpaid/volunteer/cultural activity? Printmaking: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/294
+
+      ________________________________________________________________________
+
+      Q58J_DK            Unpaid/volunteer/cultural activity? Printmaking: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/296
+
+      ________________________________________________________________________
+
+      Q58J_NR            Unpaid/volunteer/cultural activity? Printmaking: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/298
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 31
+
+
+      Q58K_1             Unpaid/volunteer/cultural activity? Sculpture: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/300
+
+      ________________________________________________________________________
+
+      Q58K_2             Unpaid/volunteer/cultural activity? Sculpture: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/302
+
+      ________________________________________________________________________
+
+      Q58K_3             Unpaid/volunteer/cultural activity? Sculpture: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/304
+
+      ________________________________________________________________________
+
+      Q58K_4             Unpaid/volunteer/cultural activity? Sculpture: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/306
+
+      ________________________________________________________________________
+
+      Q58K_DK            Unpaid/volunteer/cultural activity? Sculpture: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/308
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 32
+
+
+      Q58K_NR            Unpaid/volunteer/cultural activity? Sculpture: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/310
+
+      ________________________________________________________________________
+
+      Q58L_1             Unpaid/volunteer/cultural activity? Film or video: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/312
+
+      ________________________________________________________________________
+
+      Q58L_2             Unpaid/volunteer/cultural activity? Film or video: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/314
+
+      ________________________________________________________________________
+
+      Q58L_3             Unpaid/volunteer/cultural activity? Film or video: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/316
+
+      ________________________________________________________________________
+
+      Q58L_4             Unpaid/volunteer/cultural activity? Film or video: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/318
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 33
+
+
+      Q58L_DK            Unpaid/volunteer/cultural activity? Film or video: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/320
+
+      ________________________________________________________________________
+
+      Q58L_NR            Unpaid/volunteer/cultural activity? Film or video: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/322
+
+      ________________________________________________________________________
+
+      Q58M_1             Unpaid/volunteer/cultural activity? Animation: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/324
+
+      ________________________________________________________________________
+
+      Q58M_2             Unpaid/volunteer/cultural activity? Animation: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/326
+
+      ________________________________________________________________________
+
+      Q58M_3             Unpaid/volunteer/cultural activity? Animation: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/328
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 34
+
+
+      Q58M_4             Unpaid/volunteer/cultural activity? Animation: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/330
+
+      ________________________________________________________________________
+
+      Q58M_DK            Unpaid/volunteer/cultural activity? Animation: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/332
+
+      ________________________________________________________________________
+
+      Q58M_NR            Unpaid/volunteer/cultural activity? Animation: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/334
+
+      ________________________________________________________________________
+
+      Q58N_1             Unpaid/volunteer/cultural activity? Digital art: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/336
+
+      ________________________________________________________________________
+
+      Q58N_2             Unpaid/volunteer/cultural activity? Digital art: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/338
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 35
+
+
+      Q58N_3             Unpaid/volunteer/cultural activity? Digital art: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/340
+
+      ________________________________________________________________________
+
+      Q58N_4             Unpaid/volunteer/cultural activity? Digital art: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/342
+
+      ________________________________________________________________________
+
+      Q58N_DK            Unpaid/volunteer/cultural activity? Digital art: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/344
+
+      ________________________________________________________________________
+
+      Q58N_NR            Unpaid/volunteer/cultural activity? Digital art: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/346
+
+      ________________________________________________________________________
+
+      Q58O_1             Unpaid/volunteer/cultural activity? Fiction: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/348
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 36
+
+
+      Q58O_2             Unpaid/volunteer/cultural activity? Fiction: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/350
+
+      ________________________________________________________________________
+
+      Q58O_3             Unpaid/volunteer/cultural activity? Fiction: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/352
+
+      ________________________________________________________________________
+
+      Q58O_4             Unpaid/volunteer/cultural activity? Fiction: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/354
+
+      ________________________________________________________________________
+
+      Q58O_DK            Unpaid/volunteer/cultural activity? Fiction: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/356
+
+      ________________________________________________________________________
+
+      Q58O_NR            Unpaid/volunteer/cultural activity? Fiction: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/358
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 37
+
+
+      Q58P_1             Unpaid/volunteer/cultural activity? Creative nonfiction: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/360
+
+      ________________________________________________________________________
+
+      Q58P_2             Unpaid/volunteer/cultural activity? Creative nonfiction: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/362
+
+      ________________________________________________________________________
+
+      Q58P_3             Unpaid/volunteer/cultural activity? Creative nonfiction: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/364
+
+      ________________________________________________________________________
+
+      Q58P_4             Unpaid/volunteer/cultural activity? Creative nonfiction: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/366
+
+      ________________________________________________________________________
+
+      Q58P_DK            Unpaid/volunteer/cultural activity? Creative nonfiction: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/368
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 38
+
+
+      Q58P_NR            Unpaid/volunteer/cultural activity? Creative nonfiction: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/370
+
+      ________________________________________________________________________
+
+      Q58Q_1             Unpaid/volunteer/cultural activity? Poetry: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/372
+
+      ________________________________________________________________________
+
+      Q58Q_2             Unpaid/volunteer/cultural activity? Poetry: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/374
+
+      ________________________________________________________________________
+
+      Q58Q_3             Unpaid/volunteer/cultural activity? Poetry: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/376
+
+      ________________________________________________________________________
+
+      Q58Q_4             Unpaid/volunteer/cultural activity? Poetry: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/378
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 39
+
+
+      Q58Q_DK            Unpaid/volunteer/cultural activity? Poetry: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/380
+
+      ________________________________________________________________________
+
+      Q58Q_NR            Unpaid/volunteer/cultural activity? Poetry: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/382
+
+      ________________________________________________________________________
+
+      Q58R_1             Unpaid/volunteer/cultural activity? Spoken word: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/384
+
+      ________________________________________________________________________
+
+      Q58R_2             Unpaid/volunteer/cultural activity? Spoken word: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/386
+
+      ________________________________________________________________________
+
+      Q58R_3             Unpaid/volunteer/cultural activity? Spoken word: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/388
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 40
+
+
+      Q58R_4             Unpaid/volunteer/cultural activity? Spoken word: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/390
+
+      ________________________________________________________________________
+
+      Q58R_DK            Unpaid/volunteer/cultural activity? Spoken word: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/392
+
+      ________________________________________________________________________
+
+      Q58R_NR            Unpaid/volunteer/cultural activity? Spoken word: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/394
+
+      ________________________________________________________________________
+
+      Q58S_1             Unpaid/volunteer/cultural activity? Theatrical plays: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/396
+
+      ________________________________________________________________________
+
+      Q58S_2             Unpaid/volunteer/cultural activity? Theatrical plays: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/398
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 41
+
+
+      Q58S_3             Unpaid/volunteer/cultural activity? Theatrical plays: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/400
+
+      ________________________________________________________________________
+
+      Q58S_4             Unpaid/volunteer/cultural activity? Theatrical plays: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/402
+
+      ________________________________________________________________________
+
+      Q58S_DK            Unpaid/volunteer/cultural activity? Theatrical plays: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/404
+
+      ________________________________________________________________________
+
+      Q58S_NR            Unpaid/volunteer/cultural activity? Theatrical plays: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/406
+
+      ________________________________________________________________________
+
+      Q58T_1             Unpaid/volunteer/cultural activity? Screenplays: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/408
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 42
+
+
+      Q58T_2             Unpaid/volunteer/cultural activity? Screenplays: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/410
+
+      ________________________________________________________________________
+
+      Q58T_3             Unpaid/volunteer/cultural activity? Screenplays: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/412
+
+      ________________________________________________________________________
+
+      Q58T_4             Unpaid/volunteer/cultural activity? Screenplays: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/414
+
+      ________________________________________________________________________
+
+      Q58T_DK            Unpaid/volunteer/cultural activity? Screenplays: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/416
+
+      ________________________________________________________________________
+
+      Q58T_NR            Unpaid/volunteer/cultural activity? Screenplays: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/418
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 43
+
+
+      Q58U_1             Unpaid/volunteer/cultural activity? Fiber, textiles, or weaving: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/420
+
+      ________________________________________________________________________
+
+      Q58U_2             Unpaid/volunteer/cultural activity? Fiber, textiles, or weaving: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/422
+
+      ________________________________________________________________________
+
+      Q58U_3             Unpaid/volunteer/cultural activity? Fiber, textiles, or weaving: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/424
+
+      ________________________________________________________________________
+
+      Q58U_4             Unpaid/volunteer/cultural activity? Fiber, textiles, or weaving: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/426
+
+      ________________________________________________________________________
+
+      Q58U_DK            Unpaid/volunteer/cultural activity? Fiber, textiles, or weaving: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/428
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 44
+
+
+      Q58U_NR            Unpaid/volunteer/cultural activity? Fiber, textiles, or weaving: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/430
+
+      ________________________________________________________________________
+
+      Q58V_1             Unpaid/volunteer/cultural activity? Ceramics, clay, or pottery: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/432
+
+      ________________________________________________________________________
+
+      Q58V_2             Unpaid/volunteer/cultural activity? Ceramics, clay, or pottery: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/434
+
+      ________________________________________________________________________
+
+      Q58V_3             Unpaid/volunteer/cultural activity? Ceramics, clay, or pottery: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/436
+
+      ________________________________________________________________________
+
+      Q58V_4             Unpaid/volunteer/cultural activity? Ceramics, clay, or pottery: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/438
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 45
+
+
+      Q58V_DK            Unpaid/volunteer/cultural activity? Ceramics, clay, or pottery: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/440
+
+      ________________________________________________________________________
+
+      Q58V_NR            Unpaid/volunteer/cultural activity? Ceramics, clay, or pottery: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/442
+
+      ________________________________________________________________________
+
+      Q58W_1             Unpaid/volunteer/cultural activity? Metalworking: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/444
+
+      ________________________________________________________________________
+
+      Q58W_2             Unpaid/volunteer/cultural activity? Metalworking: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/446
+
+      ________________________________________________________________________
+
+      Q58W_3             Unpaid/volunteer/cultural activity? Metalworking: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/448
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 46
+
+
+      Q58W_4             Unpaid/volunteer/cultural activity? Metalworking: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/450
+
+      ________________________________________________________________________
+
+      Q58W_DK            Unpaid/volunteer/cultural activity? Metalworking: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/452
+
+      ________________________________________________________________________
+
+      Q58W_NR            Unpaid/volunteer/cultural activity? Metalworking: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/454
+
+      ________________________________________________________________________
+
+      Q58X_1             Unpaid/volunteer/cultural activity? Woodworking: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/456
+
+      ________________________________________________________________________
+
+      Q58X_2             Unpaid/volunteer/cultural activity? Woodworking: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/458
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 47
+
+
+      Q58X_3             Unpaid/volunteer/cultural activity? Woodworking: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/460
+
+      ________________________________________________________________________
+
+      Q58X_4             Unpaid/volunteer/cultural activity? Woodworking: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/462
+
+      ________________________________________________________________________
+
+      Q58X_DK            Unpaid/volunteer/cultural activity? Woodworking: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/464
+
+      ________________________________________________________________________
+
+      Q58X_NR            Unpaid/volunteer/cultural activity? Woodworking: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/466
+
+      ________________________________________________________________________
+
+      Q58Y_1             Unpaid/volunteer/cultural activity? Glass working: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/468
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 48
+
+
+      Q58Y_2             Unpaid/volunteer/cultural activity? Glass working: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/470
+
+      ________________________________________________________________________
+
+      Q58Y_3             Unpaid/volunteer/cultural activity? Glass working: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/472
+
+      ________________________________________________________________________
+
+      Q58Y_4             Unpaid/volunteer/cultural activity? Glass working: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/474
+
+      ________________________________________________________________________
+
+      Q58Y_DK            Unpaid/volunteer/cultural activity? Glass working: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/476
+
+      ________________________________________________________________________
+
+      Q58Y_NR            Unpaid/volunteer/cultural activity? Glass working: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/478
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 49
+
+
+      Q58Z_1             Unpaid/volunteer/cultural activity? Jewelry making: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/480
+
+      ________________________________________________________________________
+
+      Q58Z_2             Unpaid/volunteer/cultural activity? Jewelry making: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/482
+
+      ________________________________________________________________________
+
+      Q58Z_3             Unpaid/volunteer/cultural activity? Jewelry making: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/484
+
+      ________________________________________________________________________
+
+      Q58Z_4             Unpaid/volunteer/cultural activity? Jewelry making: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/486
+
+      ________________________________________________________________________
+
+      Q58Z_DK            Unpaid/volunteer/cultural activity? Jewelry making: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/488
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 50
+
+
+      Q58Z_NR            Unpaid/volunteer/cultural activity? Jewelry making: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/490
+
+      ________________________________________________________________________
+
+      Q58AA_1            Unpaid/volunteer/cultural activity? Installation art: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/492
+
+      ________________________________________________________________________
+
+      Q58AA_2            Unpaid/volunteer/cultural activity? Installation art: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/494
+
+      ________________________________________________________________________
+
+      Q58AA_3            Unpaid/volunteer/cultural activity? Installation art: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/496
+
+      ________________________________________________________________________
+
+      Q58AA_4            Unpaid/volunteer/cultural activity? Installation art: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/498
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 51
+
+
+      Q58AA_DK           Unpaid/volunteer/cultural activity? Installation art: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/500
+
+      ________________________________________________________________________
+
+      Q58AA_NR           Unpaid/volunteer/cultural activity? Installation art: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/502
+
+      ________________________________________________________________________
+
+      Q58BB_1            Unpaid/volunteer/cultural activity? Interdisciplinary art: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/504
+
+      ________________________________________________________________________
+
+      Q58BB_2            Unpaid/volunteer/cultural activity? Interdisciplinary art: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/506
+
+      ________________________________________________________________________
+
+      Q58BB_3            Unpaid/volunteer/cultural activity? Interdisciplinary art: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/508
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 52
+
+
+      Q58BB_4            Unpaid/volunteer/cultural activity? Interdisciplinary art: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/510
+
+      ________________________________________________________________________
+
+      Q58BB_DK           Unpaid/volunteer/cultural activity? Interdisciplinary art: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/512
+
+      ________________________________________________________________________
+
+      Q58BB_NR           Unpaid/volunteer/cultural activity? Interdisciplinary art: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/514
+
+      ________________________________________________________________________
+
+      Q58CC_1            Unpaid/volunteer/cultural activity? Multidisciplinary art: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/516
+
+      ________________________________________________________________________
+
+      Q58CC_2            Unpaid/volunteer/cultural activity? Multidisciplinary art: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/518
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 53
+
+
+      Q58CC_3            Unpaid/volunteer/cultural activity? Multidisciplinary art: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/520
+
+      ________________________________________________________________________
+
+      Q58CC_4            Unpaid/volunteer/cultural activity? Multidisciplinary art: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/522
+
+      ________________________________________________________________________
+
+      Q58CC_DK           Unpaid/volunteer/cultural activity? Multidisciplinary art: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/524
+
+      ________________________________________________________________________
+
+      Q58CC_NR           Unpaid/volunteer/cultural activity? Multidisciplinary art: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/526
+
+      ________________________________________________________________________
+
+      Q58DD_1            Unpaid/volunteer/cultural activity? Performance art: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/528
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 54
+
+
+      Q58DD_2            Unpaid/volunteer/cultural activity? Performance art: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/530
+
+      ________________________________________________________________________
+
+      Q58DD_3            Unpaid/volunteer/cultural activity? Performance art: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/532
+
+      ________________________________________________________________________
+
+      Q58DD_4            Unpaid/volunteer/cultural activity? Performance art: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/534
+
+      ________________________________________________________________________
+
+      Q58DD_DK           Unpaid/volunteer/cultural activity? Performance art: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/536
+
+      ________________________________________________________________________
+
+      Q58DD_NR           Unpaid/volunteer/cultural activity? Performance art: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/538
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 55
+
+
+      Q58EE_1            Unpaid/volunteer/cultural activity? Social practice art: Unpaid activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/540
+
+      ________________________________________________________________________
+
+      Q58EE_2            Unpaid/volunteer/cultural activity? Social practice art: Volunteer activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/542
+
+      ________________________________________________________________________
+
+      Q58EE_3            Unpaid/volunteer/cultural activity? Social practice art: Cultural activities.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/544
+
+      ________________________________________________________________________
+
+      Q58EE_4            Unpaid/volunteer/cultural activity? Social practice art: None of these.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/546
+
+      ________________________________________________________________________
+
+      Q58EE_DK           Unpaid/volunteer/cultural activity? Social practice art: Don't know.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/548
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 56
+
+
+      Q58EE_NR           Unpaid/volunteer/cultural activity? Social practice art: No response.
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/550
+
+      ________________________________________________________________________
+
+      Q59                Provide unpaid assistance or care to a family member or friend
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/552-553
+
+      ________________________________________________________________________
+
+      Q60_1              Assets: Checking or savings account(s)
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/555
+
+      ________________________________________________________________________
+
+      Q60_2              Assets: Retirement account(s)
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/557
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 57
+
+
+      Q60_3              Assets: Financial investments (not in a retirement account)
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/559
+
+      ________________________________________________________________________
+
+      Q60_4              Assets: Ownership of your primary home
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/561
+
+      ________________________________________________________________________
+
+      Q60_5              Assets: Ownership of other real estate (not including primary home)
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/563
+
+      ________________________________________________________________________
+
+      Q60_6              Assets: Ownership of your primary vehicle
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/565
+
+      ________________________________________________________________________
+
+      Q60_7              Assets: Ownership in a business (non-stock)
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/567
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 58
+
+
+      Q60_8              Assets: Other financial assets
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/569
+
+      ________________________________________________________________________
+
+      Q60_9              Assets: None of these
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/571
+
+      ________________________________________________________________________
+
+      Q60_DK             Assets: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/573
+
+      ________________________________________________________________________
+
+      Q60_NR             Assets: No response
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/575
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 59
+
+
+      Q61_R              Total value of assets - recoded
+
+           VALUE  LABEL
+               1  Under $2,500
+               2  $2,501 - $5,000
+               3  $5,001 - $10,000
+               4  $10,001 - $15,000
+               5  $15,001 - $25,000
+               6  $25,001 - $50,000
+               7  $50,001 - $75,000
+               8  $75,001 - $100,000
+               9  $100,001 - $150,000
+              10  $150,001 - $350,000
+              11  Over $350,000
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/577-578
+
+      ________________________________________________________________________
+
+      Q62_1              Debts: Mortgage
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/580
+
+      ________________________________________________________________________
+
+      Q62_2              Debts: Car loan(s)
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/582
+
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 60
+
+
+      Q62_3              Debts: School loan(s)
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/584
+
+      ________________________________________________________________________
+
+      Q62_4              Debts: Credit card debt
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/586
+
+      ________________________________________________________________________
+
+      Q62_5              Debts: Medical debt
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/588
+
+      ________________________________________________________________________
+
+      Q62_6              Debts: Other debts or loans
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/590
+
+      ________________________________________________________________________
+
+      Q62_7              Debts: None of these
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/592
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 61
+
+
+      Q62_DK             Debts: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/594
+
+      ________________________________________________________________________
+
+      Q62_NR             Debts: No response
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/596
+
+      ________________________________________________________________________
+
+      Q63_R              Total value of debts - recoded
+
+           VALUE  LABEL
+               1  Under $2,500
+               2  $2,501 - $5,000
+               3  $5,001 - $10,000
+               4  $10,001 - $15,000
+               5  $15,001 - $25,000
+               6  $25,001 - $50,000
+               7  $50,001 - $75,000
+               8  $75,001 - $100,000
+               9  $100,001 - $150,000
+              10  $150,001 - $350,000
+              11  Over $350,000
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/598-599
+
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 62
+
+
+      Q64_1_TC           Household members: Spouse/partner - top-coded
+
+           VALUE  LABEL
+               0  0
+               1  1
+               2  2 or more
+
+           Data type: numeric
+           Record/column: 1/601
+
+      ________________________________________________________________________
+
+      Q64_2_TC           Household members: Dependent children - top-coded
+
+           VALUE  LABEL
+               0  0
+               1  1
+               2  2
+               3  3 or more
+
+           Data type: numeric
+           Record/column: 1/603
+
+      ________________________________________________________________________
+
+      Q64_3_TC           Household members: Other children - top-coded
+
+           VALUE  LABEL
+               0  0
+               1  1
+               2  2 or more
+
+           Data type: numeric
+           Record/column: 1/605
+
+      ________________________________________________________________________
+
+      Q64_4_TC           Household members: Other dependent relatives - top-coded
+
+           VALUE  LABEL
+               0  0
+               1  1 or more
+
+           Data type: numeric
+           Record/column: 1/607
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 63
+
+
+      HH_SIZE_TC         Total household size - top-coded
+
+           VALUE  LABEL
+               1  1
+               2  2
+               3  3
+               4  4
+               5  5 or more
+              98  No response
+
+           Data type: numeric
+           Record/column: 1/609
+
+      ________________________________________________________________________
+
+      Q65_1              Household income sources: Employment (wages) for respondent or others in household
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/611
+
+      ________________________________________________________________________
+
+      Q65_2              Household income sources: Social Security
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/613
+
+      ________________________________________________________________________
+
+      Q65_3              Household income sources: Pensions or retirement benefits based on service
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/615
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 64
+
+
+      Q65_4              Household income sources: Business, farm, or self-employment
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/617
+
+      ________________________________________________________________________
+
+      Q65_5              Household income sources: Public assistance (including TANF, food stamps)
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/619
+
+      ________________________________________________________________________
+
+      Q65_6              Household income sources: Interest or dividends from investments or annuity
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/621
+
+      ________________________________________________________________________
+
+      Q65_7              Household income sources: Family or friends outside the household
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/623
+
+      ________________________________________________________________________
+
+      Q65_8              Household income sources: Capital gains or rent
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/625
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 65
+
+
+      Q65_9              Household income sources: Alimony
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/627
+
+      ________________________________________________________________________
+
+      Q65_10             Household income sources: Other
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/629
+
+      ________________________________________________________________________
+
+      Q65_DK             Household income sources: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/631
+
+      ________________________________________________________________________
+
+      Q65_NR             Household income sources: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/633
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 66
+
+
+      INCOME             Household income
+
+           VALUE  LABEL
+               1  Less than $30,000
+               2  $30,000 to under $60,000
+               3  $60,000 to under $100,000
+               4  $100,000 or more
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/635-636
+
+      ________________________________________________________________________
+
+      Q67_1              Benefits: Health insurance
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/638
+
+      ________________________________________________________________________
+
+      Q67_2              Benefits: Dental insurance
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/640
+
+      ________________________________________________________________________
+
+      Q67_3              Benefits: Vision insurance
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/642
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 67
+
+
+      Q67_4              Benefits: Life insurance (individual or group)
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/644
+
+      ________________________________________________________________________
+
+      Q67_5              Benefits: Retirement including employer contributions
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/646
+
+      ________________________________________________________________________
+
+      Q67_6              Benefits: Profit sharing and/or stock options
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/648
+
+      ________________________________________________________________________
+
+      Q67_7              Benefits: Paid holidays or vacation
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/650
+
+      ________________________________________________________________________
+
+      Q67_8              Benefits: Paid sick leave
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/652
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 68
+
+
+      Q67_9              Benefits: Paid parental or family leave
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/654
+
+      ________________________________________________________________________
+
+      Q67_10             Benefits: Professional development assistance and/or reimbursement
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/656
+
+      ________________________________________________________________________
+
+      Q67_11             Benefits: Free/reduced-cost studio space or art materials
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/658
+
+      ________________________________________________________________________
+
+      Q67_12             Benefits: Other benefit(s)
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/660
+
+      ________________________________________________________________________
+
+      Q67_DK             Benefits: Don't know
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/662
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 69
+
+
+      Q67_NR             Benefits: No response
+
+           VALUE  LABEL
+               0  Not selected
+               1  Selected
+
+           Data type: numeric
+           Record/column: 1/664
+
+      ________________________________________________________________________
+
+      Q68A_1             Main job: Health insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/666
+
+      ________________________________________________________________________
+
+      Q68A_2             Main job: Dental insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/668
+
+      ________________________________________________________________________
+
+      Q68A_3             Main job: Vision insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/670
+
+      ________________________________________________________________________
+
+      Q68A_DK            Main job: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/672
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 70
+
+
+      Q68A_NR            Main job: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/674
+
+      ________________________________________________________________________
+
+      Q68B_1             Second job: Health insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/676
+
+      ________________________________________________________________________
+
+      Q68B_2             Second job: Dental insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/678
+
+      ________________________________________________________________________
+
+      Q68B_3             Second job: Vision insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/680
+
+      ________________________________________________________________________
+
+      Q68B_DK            Second job: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/682
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 71
+
+
+      Q68B_NR            Second job: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/684
+
+      ________________________________________________________________________
+
+      Q68C_1             Third job: Health insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/686
+
+      ________________________________________________________________________
+
+      Q68C_2             Third job: Dental insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/688
+
+      ________________________________________________________________________
+
+      Q68C_3             Third job: Vision insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/690
+
+      ________________________________________________________________________
+
+      Q68C_DK            Third job: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/692
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 72
+
+
+      Q68C_NR            Third job: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/694
+
+      ________________________________________________________________________
+
+      Q68E_1             Spouse or partner's job: Health insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/696
+
+      ________________________________________________________________________
+
+      Q68E_2             Spouse or partner's job: Dental insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/698
+
+      ________________________________________________________________________
+
+      Q68E_3             Spouse or partner's job: Vision insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/700
+
+      ________________________________________________________________________
+
+      Q68E_DK            Spouse or partner's job: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/702
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 73
+
+
+      Q68E_NR            Spouse or partner's job: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/704
+
+      ________________________________________________________________________
+
+      Q68F_1             Directly purchased from an insurance company: Health insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/706
+
+      ________________________________________________________________________
+
+      Q68F_2             Directly purchased from an insurance company: Dental insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/708
+
+      ________________________________________________________________________
+
+      Q68F_3             Directly purchased from an insurance company: Vision insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/710
+
+      ________________________________________________________________________
+
+      Q68F_DK            Directly purchased from an insurance company: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/712
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 74
+
+
+      Q68F_NR            Directly purchased from an insurance company: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/714
+
+      ________________________________________________________________________
+
+      Q68G_1             Health insurance marketplace: Health insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/716
+
+      ________________________________________________________________________
+
+      Q68G_2             Health insurance marketplace: Dental insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/718
+
+      ________________________________________________________________________
+
+      Q68G_3             Health insurance marketplace: Vision insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/720
+
+      ________________________________________________________________________
+
+      Q68G_DK            Health insurance marketplace: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/722
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 75
+
+
+      Q68G_NR            Health insurance marketplace: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/724
+
+      ________________________________________________________________________
+
+      Q68H_1             Medicare: Health insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/726
+
+      ________________________________________________________________________
+
+      Q68H_2             Medicare: Dental insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/728
+
+      ________________________________________________________________________
+
+      Q68H_3             Medicare: Vision insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/730
+
+      ________________________________________________________________________
+
+      Q68H_DK            Medicare: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/732
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 76
+
+
+      Q68H_NR            Medicare: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/734
+
+      ________________________________________________________________________
+
+      Q68I_1             Medicaid: Health insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/736
+
+      ________________________________________________________________________
+
+      Q68I_2             Medicaid: Dental insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/738
+
+      ________________________________________________________________________
+
+      Q68I_3             Medicaid: Vision insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/740
+
+      ________________________________________________________________________
+
+      Q68I_DK            Medicaid: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/742
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 77
+
+
+      Q68I_NR            Medicaid: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/744
+
+      ________________________________________________________________________
+
+      Q68J_1             Office of Veteran's Affairs: Health insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/746
+
+      ________________________________________________________________________
+
+      Q68J_2             Office of Veteran's Affairs: Dental insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/748
+
+      ________________________________________________________________________
+
+      Q68J_3             Office of Veteran's Affairs: Vision insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/750
+
+      ________________________________________________________________________
+
+      Q68J_DK            Office of Veteran's Affairs: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/752
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 78
+
+
+      Q68J_NR            Office of Veteran's Affairs: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/754
+
+      ________________________________________________________________________
+
+      Q68K_1             Union: Health insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/756
+
+      ________________________________________________________________________
+
+      Q68K_2             Union: Dental insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/758
+
+      ________________________________________________________________________
+
+      Q68K_3             Union: Vision insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/760
+
+      ________________________________________________________________________
+
+      Q68K_DK            Union: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/762
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 79
+
+
+      Q68K_NR            Union: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/764
+
+      ________________________________________________________________________
+
+      Q68L_1             Some other source: Health insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/766
+
+      ________________________________________________________________________
+
+      Q68L_2             Some other source: Dental insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/768
+
+      ________________________________________________________________________
+
+      Q68L_3             Some other source: Vision insurance
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/770
+
+      ________________________________________________________________________
+
+      Q68L_DK            Some other source: Don't know
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/772
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 80
+
+
+      Q68L_NR            Some other source: No response
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+
+           Data type: numeric
+           Record/column: 1/774
+
+      ________________________________________________________________________
+
+      Q69                Overall health rating
+
+           VALUE  LABEL
+               1  Excellent
+               2  Very good
+               3  Good
+               4  Fair
+               5  Poor
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/776-777
+
+      ________________________________________________________________________
+
+      Q70                Mental/emotional health rating
+
+           VALUE  LABEL
+               1  Excellent
+               2  Very good
+               3  Good
+               4  Fair
+               5  Poor
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/779-780
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 81
+
+
+      Q73                Self-identification as a person with a disability
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/782-783
+
+      ________________________________________________________________________
+
+      Q74                Manages a chronic health condition
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/785-786
+
+      ________________________________________________________________________
+
+      Q75A               Worry: Having enough to eat
+
+           VALUE  LABEL
+               1  Not at all worried
+               2  Not too worried
+               3  Somewhat worried
+               4  Very worried
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/788-789
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 82
+
+
+      Q75B               Worry: Being able to work as many hours as you want
+
+           VALUE  LABEL
+               1  Not at all worried
+               2  Not too worried
+               3  Somewhat worried
+               4  Very worried
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/791-792
+
+      ________________________________________________________________________
+
+      Q75C               Worry: Being able to pay your rent or mortgage
+
+           VALUE  LABEL
+               1  Not at all worried
+               2  Not too worried
+               3  Somewhat worried
+               4  Very worried
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/794-795
+
+      ________________________________________________________________________
+
+      Q75D               Worry: Being able to pay your gas, oil, or electricity bills
+
+           VALUE  LABEL
+               1  Not at all worried
+               2  Not too worried
+               3  Somewhat worried
+               4  Very worried
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/797-798
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 83
+
+
+      Q75E               Worry: Being able to pay your debts
+
+           VALUE  LABEL
+               1  Not at all worried
+               2  Not too worried
+               3  Somewhat worried
+               4  Very worried
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/800-801
+
+      ________________________________________________________________________
+
+      Q75F               Worry: Being able to pay for medical costs
+
+           VALUE  LABEL
+               1  Not at all worried
+               2  Not too worried
+               3  Somewhat worried
+               4  Very worried
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/803-804
+
+      ________________________________________________________________________
+
+      AGE_CAT            Respondent age - categorical
+
+           VALUE  LABEL
+               1  18-29
+               2  30-44
+               3  45-59
+               4  60+
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/806-807
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 84
+
+
+      GENDER_R           Gender identity - recoded
+
+           VALUE  LABEL
+               1  Male
+               2  Female
+               3  Other
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/809-810
+
+      ________________________________________________________________________
+
+      RACETHNICITY       Combined race/ethnicity
+
+           VALUE  LABEL
+               1  White, non-Hispanic
+               2  Black, non-Hispanic
+               3  Other, non-Hispanic
+               4  Hispanic
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/812-813
+
+      ________________________________________________________________________
+
+      EDUC_R             Education (highest degree received) - recoded
+
+           VALUE  LABEL
+               1  High school or less
+               2  Some college/associate degree
+               3  Bachelor's degree
+               4  Post-grad/professional degree
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/815-816
+
+      ________________________________________________________________________
+
+      ARTS_DEGREE_PG     Holds an arts-related post-graduate or professional degree
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/column: 1/818
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 85
+
+
+      ARTS_DEGREE_UG     Holds an arts-related bachelor's or associate degree
+
+           VALUE  LABEL
+               0  No
+               1  Yes
+              77  Don't know
+              98  No response
+
+           Data type: numeric
+           Record/column: 1/820
+
+      ________________________________________________________________________
+
+      MARITAL_R          Marital status - recoded
+
+           VALUE  LABEL
+               1  Married
+               2  Divorced/Widowed/Separated
+               3  Never married
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/822-823
+
+      ________________________________________________________________________
+
+      Q90_R              Sexual orientation - recoded
+
+           VALUE  LABEL
+               1  Straight, that is, not lesbian or gay
+               2  LGBQ
+               3  No response or don't know
+
+           Data type: numeric
+           Record/column: 1/825
+
+      ________________________________________________________________________
+
+      RAO_REGION         Regional Arts Organizations geographic regions
+
+           VALUE  LABEL
+               1  Mid-America
+               2  Mid-Atlantic
+               3  Midwest
+               4  New England
+               5  South
+               6  West
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/827-828
+
+
+
+                                  November 1, 2026
+
+
+
+      National Survey of Artists, [United States], 2024                Page 86
+
+
+      METRO              Metro vs. non-metro area
+
+           VALUE  LABEL
+               0  Non-Metro Area
+               1  Metro Area
+              98  No response
+
+           Data type: numeric
+           Record/columns: 1/830-831
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  November 1, 2026

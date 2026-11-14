@@ -1,0 +1,1133 @@
+﻿variable,description,data_type,value_labels,source_codebook
+ID,Case ID,numeric,,sub-cdbk(1).txt
+WEIGHTS,Final weight: 18+ artists in the U.S.,numeric,,sub-cdbk(1).txt
+VSTRAT,Strata variable for variance estimation,character,,sub-cdbk(1).txt
+VPSU,PSU variable for variance estimation,numeric,,sub-cdbk(1).txt
+Q1A_1,Created or performed: Music,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1A_2,Created or performed: Dance,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1A_3,Created or performed: Theater,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1A_4,Created or performed: Comedy,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1A_5,Created or performed: Circus or acrobatics,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1A_6,Created or performed: Mime or puppetry,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1A_7,Created or performed: None of these,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1A_DK,Created or performed: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1A_NR,Created or performed: No response,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1B_1,Created visual art: Painting,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1B_2,Created visual art: Photography,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1B_3,Created visual art: Drawing or illustration,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1B_4,Created visual art: Printmaking,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1B_5,Created visual art: Sculpture,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1B_6,Created visual art: Film or video,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1B_7,Created visual art: Animation,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1B_8,Created visual art: Digital art,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1B_9,Created visual art: None of these,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1B_DK,Created visual art: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1B_NR,Created visual art: No response,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1C_1,Written: Fiction,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1C_2,Written: Creative nonfiction,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1C_3,Written: Poetry,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1C_4,Written: Spoken word,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1C_5,Written: Theatrical plays,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1C_6,Written: Screenplays,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1C_7,Written: None of these,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1C_DK,Written: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1C_NR,Written: No response,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1D_1,"Created crafts: Fiber, textiles, or weaving",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1D_2,"Created crafts: Ceramics, clay, or pottery",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1D_3,Created crafts: Metalworking,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1D_4,Created crafts: Woodworking,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1D_5,Created crafts: Glass working,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1D_6,Created crafts: Jewelry making,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1D_7,Created crafts: None of these,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1D_DK,Created crafts: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1D_NR,Created crafts: No response,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1E_1,Done design: Architecture,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1E_2,Done design: Graphic design,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1E_3,Done design: Interior design,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1E_4,Done design: Industrial design,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1E_5,Done design: Fashion design,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1E_6,Done design: Floral design,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1E_7,Done design: None of these,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1E_DK,Done design: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1E_NR,Done design: No response,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1F_1,Created other art: Installation art,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1F_2,Created other art: Interdisciplinary art,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1F_3,Created other art: Multidisciplinary art,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1F_4,Created other art: Performance art,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1F_5,Created other art: Social practice art,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1F_6,Created other art: None of these,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1F_DK,Created other art: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q1F_NR,Created other art: No response,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2A_1,Your engagement in the past 12 months. Music: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2A_2,Your engagement in the past 12 months. Music: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2A_3,Your engagement in the past 12 months. Music: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2A_4,Your engagement in the past 12 months. Music: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2A_5,Your engagement in the past 12 months. Music: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2A_6,Your engagement in the past 12 months. Music: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2A_7,Your engagement in the past 12 months. Music: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2A_DK,Your engagement in the past 12 months. Music: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2A_NR,Your engagement in the past 12 months. Music: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2B_1,Your engagement in the past 12 months. Dance: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2B_2,Your engagement in the past 12 months. Dance: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2B_3,Your engagement in the past 12 months. Dance: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2B_4,Your engagement in the past 12 months. Dance: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2B_5,Your engagement in the past 12 months. Dance: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2B_6,Your engagement in the past 12 months. Dance: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2B_7,Your engagement in the past 12 months. Dance: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2B_DK,Your engagement in the past 12 months. Dance: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2B_NR,Your engagement in the past 12 months. Dance: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2C_1,Your engagement in the past 12 months. Theater: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2C_2,Your engagement in the past 12 months. Theater: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2C_3,Your engagement in the past 12 months. Theater: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2C_4,Your engagement in the past 12 months. Theater: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2C_5,Your engagement in the past 12 months. Theater: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2C_6,Your engagement in the past 12 months. Theater: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2C_7,Your engagement in the past 12 months. Theater: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2C_DK,Your engagement in the past 12 months. Theater: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2C_NR,Your engagement in the past 12 months. Theater: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2D_1,Your engagement in the past 12 months. Comedy: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2D_2,Your engagement in the past 12 months. Comedy: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2D_3,Your engagement in the past 12 months. Comedy: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2D_4,Your engagement in the past 12 months. Comedy: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2D_5,Your engagement in the past 12 months. Comedy: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2D_6,Your engagement in the past 12 months. Comedy: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2D_7,Your engagement in the past 12 months. Comedy: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2D_DK,Your engagement in the past 12 months. Comedy: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2D_NR,Your engagement in the past 12 months. Comedy: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2E_1,Your engagement in the past 12 months. Circus or acrobatics: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2E_2,Your engagement in the past 12 months. Circus or acrobatics: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2E_3,Your engagement in the past 12 months. Circus or acrobatics: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2E_4,Your engagement in the past 12 months. Circus or acrobatics: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2E_5,Your engagement in the past 12 months. Circus or acrobatics: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2E_6,Your engagement in the past 12 months. Circus or acrobatics: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2E_7,Your engagement in the past 12 months. Circus or acrobatics: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2E_DK,Your engagement in the past 12 months. Circus or acrobatics: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2E_NR,Your engagement in the past 12 months. Circus or acrobatics: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2F_1,Your engagement in the past 12 months. Mime or puppetry: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2F_2,Your engagement in the past 12 months. Mime or puppetry: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2F_3,Your engagement in the past 12 months. Mime or puppetry: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2F_4,Your engagement in the past 12 months. Mime or puppetry: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2F_5,Your engagement in the past 12 months. Mime or puppetry: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2F_6,Your engagement in the past 12 months. Mime or puppetry: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2F_7,Your engagement in the past 12 months. Mime or puppetry: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2F_DK,Your engagement in the past 12 months. Mime or puppetry: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2F_NR,Your engagement in the past 12 months. Mime or puppetry: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2G_1,Your engagement in the past 12 months. Painting: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2G_2,Your engagement in the past 12 months. Painting: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2G_3,Your engagement in the past 12 months. Painting: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2G_4,Your engagement in the past 12 months. Painting: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2G_5,Your engagement in the past 12 months. Painting: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2G_6,Your engagement in the past 12 months. Painting: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2G_7,Your engagement in the past 12 months. Painting: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2G_DK,Your engagement in the past 12 months. Painting: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2G_NR,Your engagement in the past 12 months. Painting: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2H_1,Your engagement in the past 12 months. Photography: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2H_2,Your engagement in the past 12 months. Photography: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2H_3,Your engagement in the past 12 months. Photography: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2H_4,Your engagement in the past 12 months. Photography: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2H_5,Your engagement in the past 12 months. Photography: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2H_6,Your engagement in the past 12 months. Photography: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2H_7,Your engagement in the past 12 months. Photography: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2H_DK,Your engagement in the past 12 months. Photography: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2H_NR,Your engagement in the past 12 months. Photography: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2I_1,Your engagement in the past 12 months. Drawing or illustration: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2I_2,Your engagement in the past 12 months. Drawing or illustration: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2I_3,Your engagement in the past 12 months. Drawing or illustration: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2I_4,Your engagement in the past 12 months. Drawing or illustration: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2I_5,Your engagement in the past 12 months. Drawing or illustration: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2I_6,Your engagement in the past 12 months. Drawing or illustration: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2I_7,Your engagement in the past 12 months. Drawing or illustration: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2I_DK,Your engagement in the past 12 months. Drawing or illustration: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2I_NR,Your engagement in the past 12 months. Drawing or illustration: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2J_1,Your engagement in the past 12 months. Printmaking: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2J_2,Your engagement in the past 12 months. Printmaking: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2J_3,Your engagement in the past 12 months. Printmaking: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2J_4,Your engagement in the past 12 months. Printmaking: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2J_5,Your engagement in the past 12 months. Printmaking: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2J_6,Your engagement in the past 12 months. Printmaking: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2J_7,Your engagement in the past 12 months. Printmaking: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2J_DK,Your engagement in the past 12 months. Printmaking: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2J_NR,Your engagement in the past 12 months. Printmaking: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2K_1,Your engagement in the past 12 months. Sculpture: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2K_2,Your engagement in the past 12 months. Sculpture: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2K_3,Your engagement in the past 12 months. Sculpture: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2K_4,Your engagement in the past 12 months. Sculpture: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2K_5,Your engagement in the past 12 months. Sculpture: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2K_6,Your engagement in the past 12 months. Sculpture: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2K_7,Your engagement in the past 12 months. Sculpture: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2K_DK,Your engagement in the past 12 months. Sculpture: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2K_NR,Your engagement in the past 12 months. Sculpture: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2L_1,Your engagement in the past 12 months. Film or video: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2L_2,Your engagement in the past 12 months. Film or video: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2L_3,Your engagement in the past 12 months. Film or video: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2L_4,Your engagement in the past 12 months. Film or video: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2L_5,Your engagement in the past 12 months. Film or video: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2L_6,Your engagement in the past 12 months. Film or video: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2L_7,Your engagement in the past 12 months. Film or video: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2L_DK,Your engagement in the past 12 months. Film or video: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2L_NR,Your engagement in the past 12 months. Film or video: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2M_1,Your engagement in the past 12 months. Animation: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2M_2,Your engagement in the past 12 months. Animation: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2M_3,Your engagement in the past 12 months. Animation: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2M_4,Your engagement in the past 12 months. Animation: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2M_5,Your engagement in the past 12 months. Animation: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2M_6,Your engagement in the past 12 months. Animation: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2M_7,Your engagement in the past 12 months. Animation: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2M_DK,Your engagement in the past 12 months. Animation: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2M_NR,Your engagement in the past 12 months. Animation: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2N_1,Your engagement in the past 12 months. Digital art: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2N_2,Your engagement in the past 12 months. Digital art: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2N_3,Your engagement in the past 12 months. Digital art: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2N_4,Your engagement in the past 12 months. Digital art: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2N_5,Your engagement in the past 12 months. Digital art: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2N_6,Your engagement in the past 12 months. Digital art: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2N_7,Your engagement in the past 12 months. Digital art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2N_DK,Your engagement in the past 12 months. Digital art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2N_NR,Your engagement in the past 12 months. Digital art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2O_1,Your engagement in the past 12 months. Fiction: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2O_2,Your engagement in the past 12 months. Fiction: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2O_3,Your engagement in the past 12 months. Fiction: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2O_4,Your engagement in the past 12 months. Fiction: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2O_5,Your engagement in the past 12 months. Fiction: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2O_6,Your engagement in the past 12 months. Fiction: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2O_7,Your engagement in the past 12 months. Fiction: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2O_DK,Your engagement in the past 12 months. Fiction: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2O_NR,Your engagement in the past 12 months. Fiction: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2P_1,Your engagement in the past 12 months. Creative nonfiction: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2P_2,Your engagement in the past 12 months. Creative nonfiction: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2P_3,Your engagement in the past 12 months. Creative nonfiction: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2P_4,Your engagement in the past 12 months. Creative nonfiction: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2P_5,Your engagement in the past 12 months. Creative nonfiction: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2P_6,Your engagement in the past 12 months. Creative nonfiction: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2P_7,Your engagement in the past 12 months. Creative nonfiction: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2P_DK,Your engagement in the past 12 months. Creative nonfiction: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2P_NR,Your engagement in the past 12 months. Creative nonfiction: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Q_1,Your engagement in the past 12 months. Poetry: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Q_2,Your engagement in the past 12 months. Poetry: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Q_3,Your engagement in the past 12 months. Poetry: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Q_4,Your engagement in the past 12 months. Poetry: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Q_5,Your engagement in the past 12 months. Poetry: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Q_6,Your engagement in the past 12 months. Poetry: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Q_7,Your engagement in the past 12 months. Poetry: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Q_DK,Your engagement in the past 12 months. Poetry: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Q_NR,Your engagement in the past 12 months. Poetry: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2R_1,Your engagement in the past 12 months. Spoken word: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2R_2,Your engagement in the past 12 months. Spoken word: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2R_3,Your engagement in the past 12 months. Spoken word: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2R_4,Your engagement in the past 12 months. Spoken word: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2R_5,Your engagement in the past 12 months. Spoken word: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2R_6,Your engagement in the past 12 months. Spoken word: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2R_7,Your engagement in the past 12 months. Spoken word: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2R_DK,Your engagement in the past 12 months. Spoken word: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2R_NR,Your engagement in the past 12 months. Spoken word: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2S_1,Your engagement in the past 12 months. Theatrical plays: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2S_2,Your engagement in the past 12 months. Theatrical plays: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2S_3,Your engagement in the past 12 months. Theatrical plays: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2S_4,Your engagement in the past 12 months. Theatrical plays: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2S_5,Your engagement in the past 12 months. Theatrical plays: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2S_6,Your engagement in the past 12 months. Theatrical plays: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2S_7,Your engagement in the past 12 months. Theatrical plays: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2S_DK,Your engagement in the past 12 months. Theatrical plays: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2S_NR,Your engagement in the past 12 months. Theatrical plays: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2T_1,Your engagement in the past 12 months. Screenplays: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2T_2,Your engagement in the past 12 months. Screenplays: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2T_3,Your engagement in the past 12 months. Screenplays: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2T_4,Your engagement in the past 12 months. Screenplays: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2T_5,Your engagement in the past 12 months. Screenplays: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2T_6,Your engagement in the past 12 months. Screenplays: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2T_7,Your engagement in the past 12 months. Screenplays: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2T_DK,Your engagement in the past 12 months. Screenplays: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2T_NR,Your engagement in the past 12 months. Screenplays: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2U_1,"Your engagement in the past 12 months. Fiber, textiles, or weaving: Hobbyist or amateur.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2U_2,"Your engagement in the past 12 months. Fiber, textiles, or weaving: Student.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2U_3,"Your engagement in the past 12 months. Fiber, textiles, or weaving: Teacher.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2U_4,"Your engagement in the past 12 months. Fiber, textiles, or weaving: Current professional.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2U_5,"Your engagement in the past 12 months. Fiber, textiles, or weaving: Former professional.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2U_6,"Your engagement in the past 12 months. Fiber, textiles, or weaving: Culture bearer.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2U_7,"Your engagement in the past 12 months. Fiber, textiles, or weaving: None of these.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2U_DK,"Your engagement in the past 12 months. Fiber, textiles, or weaving: Don't know.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2U_NR,"Your engagement in the past 12 months. Fiber, textiles, or weaving: No response.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2V_1,"Your engagement in the past 12 months. Ceramics, clay, or pottery: Hobbyist or amateur.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2V_2,"Your engagement in the past 12 months. Ceramics, clay, or pottery: Student.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2V_3,"Your engagement in the past 12 months. Ceramics, clay, or pottery: Teacher.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2V_4,"Your engagement in the past 12 months. Ceramics, clay, or pottery: Current professional.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2V_5,"Your engagement in the past 12 months. Ceramics, clay, or pottery: Former professional.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2V_6,"Your engagement in the past 12 months. Ceramics, clay, or pottery: Culture bearer.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2V_7,"Your engagement in the past 12 months. Ceramics, clay, or pottery: None of these.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2V_DK,"Your engagement in the past 12 months. Ceramics, clay, or pottery: Don't know.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2V_NR,"Your engagement in the past 12 months. Ceramics, clay, or pottery: No response.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2W_1,Your engagement in the past 12 months. Metalworking: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2W_2,Your engagement in the past 12 months. Metalworking: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2W_3,Your engagement in the past 12 months. Metalworking: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2W_4,Your engagement in the past 12 months. Metalworking: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2W_5,Your engagement in the past 12 months. Metalworking: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2W_6,Your engagement in the past 12 months. Metalworking: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2W_7,Your engagement in the past 12 months. Metalworking: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2W_DK,Your engagement in the past 12 months. Metalworking: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2W_NR,Your engagement in the past 12 months. Metalworking: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2X_1,Your engagement in the past 12 months. Woodworking: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2X_2,Your engagement in the past 12 months. Woodworking: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2X_3,Your engagement in the past 12 months. Woodworking: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2X_4,Your engagement in the past 12 months. Woodworking: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2X_5,Your engagement in the past 12 months. Woodworking: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2X_6,Your engagement in the past 12 months. Woodworking: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2X_7,Your engagement in the past 12 months. Woodworking: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2X_DK,Your engagement in the past 12 months. Woodworking: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2X_NR,Your engagement in the past 12 months. Woodworking: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Y_1,Your engagement in the past 12 months. Glass working: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Y_2,Your engagement in the past 12 months. Glass working: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Y_3,Your engagement in the past 12 months. Glass working: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Y_4,Your engagement in the past 12 months. Glass working: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Y_5,Your engagement in the past 12 months. Glass working: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Y_6,Your engagement in the past 12 months. Glass working: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Y_7,Your engagement in the past 12 months. Glass working: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Y_DK,Your engagement in the past 12 months. Glass working: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Y_NR,Your engagement in the past 12 months. Glass working: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Z_1,Your engagement in the past 12 months. Jewelry making: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Z_2,Your engagement in the past 12 months. Jewelry making: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Z_3,Your engagement in the past 12 months. Jewelry making: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Z_4,Your engagement in the past 12 months. Jewelry making: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Z_5,Your engagement in the past 12 months. Jewelry making: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Z_6,Your engagement in the past 12 months. Jewelry making: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Z_7,Your engagement in the past 12 months. Jewelry making: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Z_DK,Your engagement in the past 12 months. Jewelry making: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2Z_NR,Your engagement in the past 12 months. Jewelry making: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2AA_1,Your engagement in the past 12 months. Architecture: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2AA_2,Your engagement in the past 12 months. Architecture: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2AA_3,Your engagement in the past 12 months. Architecture: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2AA_4,Your engagement in the past 12 months. Architecture: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2AA_5,Your engagement in the past 12 months. Architecture: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2AA_6,Your engagement in the past 12 months. Architecture: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2AA_7,Your engagement in the past 12 months. Architecture: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2AA_DK,Your engagement in the past 12 months. Architecture: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2AA_NR,Your engagement in the past 12 months. Architecture: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2BB_1,Your engagement in the past 12 months. Graphic design: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2BB_2,Your engagement in the past 12 months. Graphic design: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2BB_3,Your engagement in the past 12 months. Graphic design: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2BB_4,Your engagement in the past 12 months. Graphic design: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2BB_5,Your engagement in the past 12 months. Graphic design: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2BB_6,Your engagement in the past 12 months. Graphic design: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2BB_7,Your engagement in the past 12 months. Graphic design: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2BB_DK,Your engagement in the past 12 months. Graphic design: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2BB_NR,Your engagement in the past 12 months. Graphic design: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2CC_1,Your engagement in the past 12 months. Interior design: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2CC_2,Your engagement in the past 12 months. Interior design: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2CC_3,Your engagement in the past 12 months. Interior design: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2CC_4,Your engagement in the past 12 months. Interior design: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2CC_5,Your engagement in the past 12 months. Interior design: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2CC_6,Your engagement in the past 12 months. Interior design: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2CC_7,Your engagement in the past 12 months. Interior design: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2CC_DK,Your engagement in the past 12 months. Interior design: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2CC_NR,Your engagement in the past 12 months. Interior design: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2DD_1,Your engagement in the past 12 months. Industrial design: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2DD_2,Your engagement in the past 12 months. Industrial design: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2DD_3,Your engagement in the past 12 months. Industrial design: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2DD_4,Your engagement in the past 12 months. Industrial design: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2DD_5,Your engagement in the past 12 months. Industrial design: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2DD_6,Your engagement in the past 12 months. Industrial design: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2DD_7,Your engagement in the past 12 months. Industrial design: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2DD_DK,Your engagement in the past 12 months. Industrial design: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2DD_NR,Your engagement in the past 12 months. Industrial design: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2EE_1,Your engagement in the past 12 months. Fashion design: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2EE_2,Your engagement in the past 12 months. Fashion design: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2EE_3,Your engagement in the past 12 months. Fashion design: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2EE_4,Your engagement in the past 12 months. Fashion design: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2EE_5,Your engagement in the past 12 months. Fashion design: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2EE_6,Your engagement in the past 12 months. Fashion design: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2EE_7,Your engagement in the past 12 months. Fashion design: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2EE_DK,Your engagement in the past 12 months. Fashion design: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2EE_NR,Your engagement in the past 12 months. Fashion design: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2FF_1,Your engagement in the past 12 months. Floral design: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2FF_2,Your engagement in the past 12 months. Floral design: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2FF_3,Your engagement in the past 12 months. Floral design: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2FF_4,Your engagement in the past 12 months. Floral design: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2FF_5,Your engagement in the past 12 months. Floral design: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2FF_6,Your engagement in the past 12 months. Floral design: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2FF_7,Your engagement in the past 12 months. Floral design: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2FF_DK,Your engagement in the past 12 months. Floral design: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2FF_NR,Your engagement in the past 12 months. Floral design: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2GG_1,Your engagement in the past 12 months. Installation art: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2GG_2,Your engagement in the past 12 months. Installation art: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2GG_3,Your engagement in the past 12 months. Installation art: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2GG_4,Your engagement in the past 12 months. Installation art: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2GG_5,Your engagement in the past 12 months. Installation art: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2GG_6,Your engagement in the past 12 months. Installation art: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2GG_7,Your engagement in the past 12 months. Installation art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2GG_DK,Your engagement in the past 12 months. Installation art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2GG_NR,Your engagement in the past 12 months. Installation art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2HH_1,Your engagement in the past 12 months. Interdisciplinary art: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2HH_2,Your engagement in the past 12 months. Interdisciplinary art: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2HH_3,Your engagement in the past 12 months. Interdisciplinary art: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2HH_4,Your engagement in the past 12 months. Interdisciplinary art: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2HH_5,Your engagement in the past 12 months. Interdisciplinary art: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2HH_6,Your engagement in the past 12 months. Interdisciplinary art: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2HH_7,Your engagement in the past 12 months. Interdisciplinary art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2HH_DK,Your engagement in the past 12 months. Interdisciplinary art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2HH_NR,Your engagement in the past 12 months. Interdisciplinary art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2II_1,Your engagement in the past 12 months. Multidisciplinary art: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2II_2,Your engagement in the past 12 months. Multidisciplinary art: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2II_3,Your engagement in the past 12 months. Multidisciplinary art: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2II_4,Your engagement in the past 12 months. Multidisciplinary art: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2II_5,Your engagement in the past 12 months. Multidisciplinary art: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2II_6,Your engagement in the past 12 months. Multidisciplinary art: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2II_7,Your engagement in the past 12 months. Multidisciplinary art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2II_DK,Your engagement in the past 12 months. Multidisciplinary art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2II_NR,Your engagement in the past 12 months. Multidisciplinary art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2JJ_1,Your engagement in the past 12 months. Performance art: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2JJ_2,Your engagement in the past 12 months. Performance art: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2JJ_3,Your engagement in the past 12 months. Performance art: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2JJ_4,Your engagement in the past 12 months. Performance art: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2JJ_5,Your engagement in the past 12 months. Performance art: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2JJ_6,Your engagement in the past 12 months. Performance art: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2JJ_7,Your engagement in the past 12 months. Performance art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2JJ_DK,Your engagement in the past 12 months. Performance art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2JJ_NR,Your engagement in the past 12 months. Performance art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2KK_1,Your engagement in the past 12 months. Social practice art: Hobbyist or amateur.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2KK_2,Your engagement in the past 12 months. Social practice art: Student.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2KK_3,Your engagement in the past 12 months. Social practice art: Teacher.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2KK_4,Your engagement in the past 12 months. Social practice art: Current professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2KK_5,Your engagement in the past 12 months. Social practice art: Former professional.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2KK_6,Your engagement in the past 12 months. Social practice art: Culture bearer.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2KK_7,Your engagement in the past 12 months. Social practice art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2KK_DK,Your engagement in the past 12 months. Social practice art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q2KK_NR,Your engagement in the past 12 months. Social practice art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3A_1,Who is your intended audience? Music: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3A_2,Who is your intended audience? Music: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3A_3,Who is your intended audience? Music: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3A_4,Who is your intended audience? Music: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3A_5,Who is your intended audience? Music: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3A_6,Who is your intended audience? Music: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3A_7,Who is your intended audience? Music: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3A_DK,Who is your intended audience? Music: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3A_NR,Who is your intended audience? Music: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3B_1,Who is your intended audience? Dance: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3B_2,Who is your intended audience? Dance: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3B_3,Who is your intended audience? Dance: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3B_4,Who is your intended audience? Dance: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3B_5,Who is your intended audience? Dance: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3B_6,Who is your intended audience? Dance: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3B_7,Who is your intended audience? Dance: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3B_DK,Who is your intended audience? Dance: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3B_NR,Who is your intended audience? Dance: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3C_1,Who is your intended audience? Theater: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3C_2,Who is your intended audience? Theater: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3C_3,Who is your intended audience? Theater: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3C_4,Who is your intended audience? Theater: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3C_5,Who is your intended audience? Theater: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3C_6,Who is your intended audience? Theater: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3C_7,Who is your intended audience? Theater: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3C_DK,Who is your intended audience? Theater: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3C_NR,Who is your intended audience? Theater: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3D_1,Who is your intended audience? Comedy: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3D_2,Who is your intended audience? Comedy: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3D_3,Who is your intended audience? Comedy: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3D_4,Who is your intended audience? Comedy: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3D_5,Who is your intended audience? Comedy: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3D_6,Who is your intended audience? Comedy: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3D_7,Who is your intended audience? Comedy: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3D_DK,Who is your intended audience? Comedy: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3D_NR,Who is your intended audience? Comedy: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3E_1,Who is your intended audience? Circus or acrobatics: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3E_2,Who is your intended audience? Circus or acrobatics: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3E_3,Who is your intended audience? Circus or acrobatics: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3E_4,Who is your intended audience? Circus or acrobatics: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3E_5,Who is your intended audience? Circus or acrobatics: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3E_6,Who is your intended audience? Circus or acrobatics: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3E_7,Who is your intended audience? Circus or acrobatics: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3E_DK,Who is your intended audience? Circus or acrobatics: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3E_NR,Who is your intended audience? Circus or acrobatics: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3F_1,Who is your intended audience? Mime or puppetry: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3F_2,Who is your intended audience? Mime or puppetry: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3F_3,Who is your intended audience? Mime or puppetry: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3F_4,Who is your intended audience? Mime or puppetry: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3F_5,Who is your intended audience? Mime or puppetry: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3F_6,Who is your intended audience? Mime or puppetry: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3F_7,Who is your intended audience? Mime or puppetry: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3F_DK,Who is your intended audience? Mime or puppetry: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3F_NR,Who is your intended audience? Mime or puppetry: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3G_1,Who is your intended audience? Painting: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3G_2,Who is your intended audience? Painting: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3G_3,Who is your intended audience? Painting: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3G_4,Who is your intended audience? Painting: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3G_5,Who is your intended audience? Painting: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3G_6,Who is your intended audience? Painting: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3G_7,Who is your intended audience? Painting: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3G_DK,Who is your intended audience? Painting: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3G_NR,Who is your intended audience? Painting: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3H_1,Who is your intended audience? Photography: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3H_2,Who is your intended audience? Photography: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3H_3,Who is your intended audience? Photography: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3H_4,Who is your intended audience? Photography: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3H_5,Who is your intended audience? Photography: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3H_6,Who is your intended audience? Photography: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3H_7,Who is your intended audience? Photography: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3H_DK,Who is your intended audience? Photography: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3H_NR,Who is your intended audience? Photography: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3I_1,Who is your intended audience? Drawing or illustration: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3I_2,Who is your intended audience? Drawing or illustration: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3I_3,Who is your intended audience? Drawing or illustration: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3I_4,Who is your intended audience? Drawing or illustration: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3I_5,Who is your intended audience? Drawing or illustration: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3I_6,Who is your intended audience? Drawing or illustration: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3I_7,Who is your intended audience? Drawing or illustration: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3I_DK,Who is your intended audience? Drawing or illustration: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3I_NR,Who is your intended audience? Drawing or illustration: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3J_1,Who is your intended audience? Printmaking: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3J_2,Who is your intended audience? Printmaking: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3J_3,Who is your intended audience? Printmaking: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3J_4,Who is your intended audience? Printmaking: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3J_5,Who is your intended audience? Printmaking: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3J_6,Who is your intended audience? Printmaking: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3J_7,Who is your intended audience? Printmaking: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3J_DK,Who is your intended audience? Printmaking: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3J_NR,Who is your intended audience? Printmaking: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3K_1,Who is your intended audience? Sculpture: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3K_2,Who is your intended audience? Sculpture: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3K_3,Who is your intended audience? Sculpture: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3K_4,Who is your intended audience? Sculpture: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3K_5,Who is your intended audience? Sculpture: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3K_6,Who is your intended audience? Sculpture: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3K_7,Who is your intended audience? Sculpture: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3K_DK,Who is your intended audience? Sculpture: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3K_NR,Who is your intended audience? Sculpture: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3L_1,Who is your intended audience? Film or video: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3L_2,Who is your intended audience? Film or video: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3L_3,Who is your intended audience? Film or video: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3L_4,Who is your intended audience? Film or video: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3L_5,Who is your intended audience? Film or video: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3L_6,Who is your intended audience? Film or video: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3L_7,Who is your intended audience? Film or video: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3L_DK,Who is your intended audience? Film or video: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3L_NR,Who is your intended audience? Film or video: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3M_1,Who is your intended audience? Animation: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3M_2,Who is your intended audience? Animation: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3M_3,Who is your intended audience? Animation: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3M_4,Who is your intended audience? Animation: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3M_5,Who is your intended audience? Animation: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3M_6,Who is your intended audience? Animation: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3M_7,Who is your intended audience? Animation: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3M_DK,Who is your intended audience? Animation: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3M_NR,Who is your intended audience? Animation: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3N_1,Who is your intended audience? Digital art: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3N_2,Who is your intended audience? Digital art: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3N_3,Who is your intended audience? Digital art: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3N_4,Who is your intended audience? Digital art: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3N_5,Who is your intended audience? Digital art: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3N_6,Who is your intended audience? Digital art: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3N_7,Who is your intended audience? Digital art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3N_DK,Who is your intended audience? Digital art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3N_NR,Who is your intended audience? Digital art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3O_1,Who is your intended audience? Fiction: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3O_2,Who is your intended audience? Fiction: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3O_3,Who is your intended audience? Fiction: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3O_4,Who is your intended audience? Fiction: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3O_5,Who is your intended audience? Fiction: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3O_6,Who is your intended audience? Fiction: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3O_7,Who is your intended audience? Fiction: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3O_DK,Who is your intended audience? Fiction: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3O_NR,Who is your intended audience? Fiction: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3P_1,Who is your intended audience? Creative nonfiction: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3P_2,Who is your intended audience? Creative nonfiction: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3P_3,Who is your intended audience? Creative nonfiction: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3P_4,Who is your intended audience? Creative nonfiction: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3P_5,Who is your intended audience? Creative nonfiction: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3P_6,Who is your intended audience? Creative nonfiction: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3P_7,Who is your intended audience? Creative nonfiction: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3P_DK,Who is your intended audience? Creative nonfiction: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3P_NR,Who is your intended audience? Creative nonfiction: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Q_1,Who is your intended audience? Poetry: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Q_2,Who is your intended audience? Poetry: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Q_3,Who is your intended audience? Poetry: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Q_4,Who is your intended audience? Poetry: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Q_5,Who is your intended audience? Poetry: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Q_6,Who is your intended audience? Poetry: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Q_7,Who is your intended audience? Poetry: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Q_DK,Who is your intended audience? Poetry: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Q_NR,Who is your intended audience? Poetry: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3R_1,Who is your intended audience? Spoken word: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3R_2,Who is your intended audience? Spoken word: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3R_3,Who is your intended audience? Spoken word: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3R_4,Who is your intended audience? Spoken word: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3R_5,Who is your intended audience? Spoken word: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3R_6,Who is your intended audience? Spoken word: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3R_7,Who is your intended audience? Spoken word: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3R_DK,Who is your intended audience? Spoken word: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3R_NR,Who is your intended audience? Spoken word: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3S_1,Who is your intended audience? Theatrical plays: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3S_2,Who is your intended audience? Theatrical plays: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3S_3,Who is your intended audience? Theatrical plays: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3S_4,Who is your intended audience? Theatrical plays: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3S_5,Who is your intended audience? Theatrical plays: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3S_6,Who is your intended audience? Theatrical plays: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3S_7,Who is your intended audience? Theatrical plays: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3S_DK,Who is your intended audience? Theatrical plays: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3S_NR,Who is your intended audience? Theatrical plays: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3T_1,Who is your intended audience? Screenplays: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3T_2,Who is your intended audience? Screenplays: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3T_3,Who is your intended audience? Screenplays: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3T_4,Who is your intended audience? Screenplays: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3T_5,Who is your intended audience? Screenplays: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3T_6,Who is your intended audience? Screenplays: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3T_7,Who is your intended audience? Screenplays: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3T_DK,Who is your intended audience? Screenplays: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3T_NR,Who is your intended audience? Screenplays: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3U_1,"Who is your intended audience? Fiber, textiles, or weaving: Myself.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3U_2,"Who is your intended audience? Fiber, textiles, or weaving: People I know personally.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3U_3,"Who is your intended audience? Fiber, textiles, or weaving: My community.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3U_4,"Who is your intended audience? Fiber, textiles, or weaving: Clients.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3U_5,"Who is your intended audience? Fiber, textiles, or weaving: Other people who are active in this field.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3U_6,"Who is your intended audience? Fiber, textiles, or weaving: The general public.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3U_7,"Who is your intended audience? Fiber, textiles, or weaving: None of these.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3U_DK,"Who is your intended audience? Fiber, textiles, or weaving: Don't know.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3U_NR,"Who is your intended audience? Fiber, textiles, or weaving: No response.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3V_1,"Who is your intended audience? Ceramics, clay, or pottery: Myself.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3V_2,"Who is your intended audience? Ceramics, clay, or pottery: People I know personally.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3V_3,"Who is your intended audience? Ceramics, clay, or pottery: My community.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3V_4,"Who is your intended audience? Ceramics, clay, or pottery: Clients.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3V_5,"Who is your intended audience? Ceramics, clay, or pottery: Other people who are active in this field.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3V_6,"Who is your intended audience? Ceramics, clay, or pottery: The general public.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3V_7,"Who is your intended audience? Ceramics, clay, or pottery: None of these.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3V_DK,"Who is your intended audience? Ceramics, clay, or pottery: Don't know.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3V_NR,"Who is your intended audience? Ceramics, clay, or pottery: No response.",numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3W_1,Who is your intended audience? Metalworking: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3W_2,Who is your intended audience? Metalworking: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3W_3,Who is your intended audience? Metalworking: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3W_4,Who is your intended audience? Metalworking: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3W_5,Who is your intended audience? Metalworking: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3W_6,Who is your intended audience? Metalworking: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3W_7,Who is your intended audience? Metalworking: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3W_DK,Who is your intended audience? Metalworking: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3W_NR,Who is your intended audience? Metalworking: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3X_1,Who is your intended audience? Woodworking: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3X_2,Who is your intended audience? Woodworking: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3X_3,Who is your intended audience? Woodworking: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3X_4,Who is your intended audience? Woodworking: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3X_5,Who is your intended audience? Woodworking: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3X_6,Who is your intended audience? Woodworking: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3X_7,Who is your intended audience? Woodworking: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3X_DK,Who is your intended audience? Woodworking: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3X_NR,Who is your intended audience? Woodworking: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Y_1,Who is your intended audience? Glass working: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Y_2,Who is your intended audience? Glass working: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Y_3,Who is your intended audience? Glass working: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Y_4,Who is your intended audience? Glass working: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Y_5,Who is your intended audience? Glass working: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Y_6,Who is your intended audience? Glass working: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Y_7,Who is your intended audience? Glass working: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Y_DK,Who is your intended audience? Glass working: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Y_NR,Who is your intended audience? Glass working: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Z_1,Who is your intended audience? Jewelry making: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Z_2,Who is your intended audience? Jewelry making: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Z_3,Who is your intended audience? Jewelry making: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Z_4,Who is your intended audience? Jewelry making: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Z_5,Who is your intended audience? Jewelry making: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Z_6,Who is your intended audience? Jewelry making: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Z_7,Who is your intended audience? Jewelry making: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Z_DK,Who is your intended audience? Jewelry making: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3Z_NR,Who is your intended audience? Jewelry making: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3AA_1,Who is your intended audience? Architecture: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3AA_2,Who is your intended audience? Architecture: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3AA_3,Who is your intended audience? Architecture: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3AA_4,Who is your intended audience? Architecture: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3AA_5,Who is your intended audience? Architecture: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3AA_6,Who is your intended audience? Architecture: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3AA_7,Who is your intended audience? Architecture: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3AA_DK,Who is your intended audience? Architecture: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3AA_NR,Who is your intended audience? Architecture: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3BB_1,Who is your intended audience? Graphic design: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3BB_2,Who is your intended audience? Graphic design: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3BB_3,Who is your intended audience? Graphic design: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3BB_4,Who is your intended audience? Graphic design: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3BB_5,Who is your intended audience? Graphic design: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3BB_6,Who is your intended audience? Graphic design: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3BB_7,Who is your intended audience? Graphic design: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3BB_DK,Who is your intended audience? Graphic design: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3BB_NR,Who is your intended audience? Graphic design: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3CC_1,Who is your intended audience? Interior design: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3CC_2,Who is your intended audience? Interior design: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3CC_3,Who is your intended audience? Interior design: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3CC_4,Who is your intended audience? Interior design: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3CC_5,Who is your intended audience? Interior design: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3CC_6,Who is your intended audience? Interior design: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3CC_7,Who is your intended audience? Interior design: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3CC_DK,Who is your intended audience? Interior design: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3CC_NR,Who is your intended audience? Interior design: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3DD_1,Who is your intended audience? Industrial design: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3DD_2,Who is your intended audience? Industrial design: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3DD_3,Who is your intended audience? Industrial design: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3DD_4,Who is your intended audience? Industrial design: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3DD_5,Who is your intended audience? Industrial design: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3DD_6,Who is your intended audience? Industrial design: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3DD_7,Who is your intended audience? Industrial design: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3DD_DK,Who is your intended audience? Industrial design: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3DD_NR,Who is your intended audience? Industrial design: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3EE_1,Who is your intended audience? Fashion design: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3EE_2,Who is your intended audience? Fashion design: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3EE_3,Who is your intended audience? Fashion design: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3EE_4,Who is your intended audience? Fashion design: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3EE_5,Who is your intended audience? Fashion design: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3EE_6,Who is your intended audience? Fashion design: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3EE_7,Who is your intended audience? Fashion design: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3EE_DK,Who is your intended audience? Fashion design: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3EE_NR,Who is your intended audience? Fashion design: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3FF_1,Who is your intended audience? Floral design: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3FF_2,Who is your intended audience? Floral design: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3FF_3,Who is your intended audience? Floral design: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3FF_4,Who is your intended audience? Floral design: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3FF_5,Who is your intended audience? Floral design: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3FF_6,Who is your intended audience? Floral design: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3FF_7,Who is your intended audience? Floral design: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3FF_DK,Who is your intended audience? Floral design: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3FF_NR,Who is your intended audience? Floral design: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3GG_1,Who is your intended audience? Installation art: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3GG_2,Who is your intended audience? Installation art: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3GG_3,Who is your intended audience? Installation art: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3GG_4,Who is your intended audience? Installation art: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3GG_5,Who is your intended audience? Installation art: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3GG_6,Who is your intended audience? Installation art: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3GG_7,Who is your intended audience? Installation art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3GG_DK,Who is your intended audience? Installation art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3GG_NR,Who is your intended audience? Installation art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3HH_1,Who is your intended audience? Interdisciplinary art: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3HH_2,Who is your intended audience? Interdisciplinary art: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3HH_3,Who is your intended audience? Interdisciplinary art: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3HH_4,Who is your intended audience? Interdisciplinary art: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3HH_5,Who is your intended audience? Interdisciplinary art: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3HH_6,Who is your intended audience? Interdisciplinary art: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3HH_7,Who is your intended audience? Interdisciplinary art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3HH_DK,Who is your intended audience? Interdisciplinary art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3HH_NR,Who is your intended audience? Interdisciplinary art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3II_1,Who is your intended audience? Multidisciplinary art: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3II_2,Who is your intended audience? Multidisciplinary art: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3II_3,Who is your intended audience? Multidisciplinary art: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3II_4,Who is your intended audience? Multidisciplinary art: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3II_5,Who is your intended audience? Multidisciplinary art: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3II_6,Who is your intended audience? Multidisciplinary art: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3II_7,Who is your intended audience? Multidisciplinary art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3II_DK,Who is your intended audience? Multidisciplinary art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3II_NR,Who is your intended audience? Multidisciplinary art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3JJ_1,Who is your intended audience? Performance art: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3JJ_2,Who is your intended audience? Performance art: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3JJ_3,Who is your intended audience? Performance art: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3JJ_4,Who is your intended audience? Performance art: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3JJ_5,Who is your intended audience? Performance art: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3JJ_6,Who is your intended audience? Performance art: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3JJ_7,Who is your intended audience? Performance art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3JJ_DK,Who is your intended audience? Performance art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3JJ_NR,Who is your intended audience? Performance art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3KK_1,Who is your intended audience? Social practice art: Myself.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3KK_2,Who is your intended audience? Social practice art: People I know personally.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3KK_3,Who is your intended audience? Social practice art: My community.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3KK_4,Who is your intended audience? Social practice art: Clients.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3KK_5,Who is your intended audience? Social practice art: Other people who are active in this field.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3KK_6,Who is your intended audience? Social practice art: The general public.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3KK_7,Who is your intended audience? Social practice art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3KK_DK,Who is your intended audience? Social practice art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q3KK_NR,Who is your intended audience? Social practice art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+COUNT_ELIG_ART,Count of eligible art activities,numeric,,sub-cdbk(1).txt
+Q4_1,Recognition: Friends or family,numeric,0 = Not selected; 1 = Selected,sub-cdbk(1).txt
+Q4_2,Recognition: People who engage in the same creative activities I do,numeric,0 = Not selected; 1 = Selected,sub-cdbk(1).txt
+Q4_3,"Recognition: Curators, critics, editors, collectors, or other professionals",numeric,0 = Not selected; 1 = Selected,sub-cdbk(1).txt
+Q4_4,Recognition: My religious or spiritual community,numeric,0 = Not selected; 1 = Selected,sub-cdbk(1).txt
+Q4_5,Recognition: My local community,numeric,0 = Not selected; 1 = Selected,sub-cdbk(1).txt
+Q4_6,Recognition: Others beyond my local community,numeric,0 = Not selected; 1 = Selected,sub-cdbk(1).txt
+Q4_7,Recognition: None of the above,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q4_DK,Recognition: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q4_NR,Recognition: No response,numeric,0 = No; 1 = Yes,sub-cdbk(1).txt
+Q5_CAT,Hours per week spent doing arts-related activities - categorical,numeric,1 = 1-4 hours; 2 = 5-8 hours; 3 = 9-15 hours; 4 = 16-20 hours; 5 = 21-40 hours; 6 = Over 40 hours,sub-cdbk(1).txt
+Q6,Primary artistic subdiscipline,numeric,"1 = Music; 2 = Dance; 3 = Theater; 4 = Comedy; 5 = Circus or acrobatics; 6 = Mime or puppetry; 8 = Painting; 9 = Photography; 10 = Drawing or illustration; 11 = Printmaking; 12 = Sculpture; 13 = Film or video; 14 = Animation; 15 = Digital art; 17 = Fiction; 18 = Creative nonfiction; 19 = Poetry; 20 = Spoken word; 21 = Theatrical plays; 22 = Screenplays; 24 = Fiber, textiles, or weaving; 25 = Ceramics, clay, or pottery; 26 = Metalworking; 27 = Woodworking; 28 = Glass working; 29 = Jewelry making; 38 = Installation art; 39 = Interdisciplinary art; 40 = Multidisciplinary art; 41 = Performance art; 42 = Social practice art; 77 = Don't know; 98 = No response",sub-cdbk(1).txt
+Q6_DISC,Primary artistic discipline,numeric,1 = Performing arts; 2 = Visual arts; 3 = Writing; 4 = Craft arts; 5 = Other art; 98 = No response,sub-cdbk(1).txt
+Q7,Do you identify as an artist?,numeric,1 = Yes; 2 = No; 77 = Don't know; 98 = No response,sub-cdbk(1).txt
+Q8_1,Teaching artist: I am a teaching artist,numeric,0 = Not selected; 1 = Selected,sub-cdbk(1).txt
+Q8_2,Teaching artist: I teach art for income,numeric,0 = Not selected; 1 = Selected,sub-cdbk(1).txt
+Q8_3,Teaching artist: Teaching art is my artistic practice,numeric,0 = Not selected; 1 = Selected,sub-cdbk(1).txt
+Q8_4,Teaching artist: I have an artistic practice outside of being a teaching artist,numeric,0 = Not selected; 1 = Selected,sub-cdbk(1).txt
+Q8_5,Teaching artist: None of these describe me,numeric,0 = Not selected; 1 = Selected,sub-cdbk(1).txt
+Q8_DK,Teaching artist: Don't know,numeric,0 = Not selected; 1 = Selected,sub-cdbk(1).txt
+Q8_NR,Teaching artist: No response,numeric,0 = Not selected; 1 = Selected,sub-cdbk(1).txt
+Q9A,Sales,numeric,"1 = The direct sale, reproduction, or representation of my artwork; 2 = I did not receive money or income from sales; 77 = Don't know; 98 = No response",sub-cdbk-2(1).txt
+Q9B,Awards,numeric,"1 = Grants, awards, fellowships, residencies, or similar funding; 2 = I did not receive money or income from awards; 77 = Don't know; 98 = No response",sub-cdbk-2(1).txt
+Q9_EMP,Employment,numeric,1 = One or more employment sources; 2 = I did not receive money or income from employment; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q9C_1,Employment: Full-/part-time work  (not self-employed),numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9C_2,Employment: Self-employment income,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9C_3,Employment: Stipends or honoraria,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9C_4,Employment: I did not receive money or income from these,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9C_DK,Employment: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9C_NR,Employment: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9_PASS,Passive income,numeric,1 = One or more passive income sources; 2 = I did not receive money or income from passive sources; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q9D_1,"Passive income: Royalties, copyright permissions, loan fees",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9D_2,"Passive income: Interest, dividends, or rental assets",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9D_3,"Passive income: An estate, trust, or inheritance",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9D_4,Passive income: I did not receive money or income from these,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9D_DK,Passive income: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9D_NR,Passive income: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9E,Retirement income,numeric,1 = Retirement income or pensions; 2 = I did not receive money or income from retirement accounts or pensions; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q9_PUB,Public assistance,numeric,1 = One or more public assistance sources; 2 = I did not receive money or income from public assistance; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q9F_1,Public assistance: State or local welfare,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9F_2,Public assistance: Social Security income,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9F_3,Public assistance: Unemployment income,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9F_4,Public assistance: Veterans (VA) payments,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9F_5,Public assistance: Workers' compensation,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9F_6,Public assistance: I did not receive money or income from these,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9F_DK,Public assistance: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q9F_NR,Public assistance: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q10_1,Financial support A: Crowdfunding or online patronage,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q10_2,Financial support A: Mutual aid,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q10_3,Financial support A: Bartered exchange,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q10_4,Financial support A: None of these,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q10_DK,Financial support A: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q10_NR,Financial support A: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q11_1,Financial support B: Family or friends who live in your household,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q11_2,Financial support B: Family or friends who live outside your household,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q11_3,Financial support B: None of these,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q11_DK,Financial support B: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q11_NR,Financial support B: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q12,Any jobs or other paid activities in past 12 months,numeric,1 = Yes; 2 = No; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q13,Any jobs or other paid activities in past 12 months: Confirmation,numeric,1 = Yes; 2 = No; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+PAID_WRK,Held any job in the past 12 months,numeric,1 = Yes; 2 = No; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+CURR_JOBS,Number of jobs currently held,numeric,0 = 0; 1 = 1; 2 = 2; 3 = 3+; 98 = No response,sub-cdbk-2(1).txt
+TEMP_TOTAL,Total number of temporary jobs in past 12 months,numeric,0 = 0; 1 = 1; 2 = 2; 3 = 3+; 98 = No response,sub-cdbk-2(1).txt
+PT_TOTAL,Total number of part-time jobs in past 12 months,numeric,0 = 0; 1 = 1; 2 = 2; 3 = 3+; 98 = No response,sub-cdbk-2(1).txt
+Q14_R,Main job: Arts-related occupation - recoded,numeric,"1 = Performing artist; 2 = Visual artist; 3 = Craft artist; 4 = Writer, author, or editor; 5 = Designer; 6 = Arts educator; 7 = Arts administrator or manager; 8 = Other arts or design job/activity; 9 = Non-arts occupation; 77 = Don't know; 98 = No response",sub-cdbk-2(1).txt
+IND_ARTS1,Arts vs. non-arts occupation: Main job,numeric,1 = Arts occupation; 2 = Non-arts occupation; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q19,Main job: Currently doing this job/paid activity,numeric,1 = Yes; 2 = No; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q16,Main job: Work for employer vs. self-employed,numeric,"1 = An employee for a company, organization, or person other than myself; 2 = A self-employed worker (business owner, independent contractor, freelance worker); 77 = Don't know; 98 = No response",sub-cdbk-2(1).txt
+Q20,Main job: Temporary job/paid activity,numeric,1 = Yes; 2 = No; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q21_CAT,Hours worked per week at main job - categorical,numeric,1 = 1-19; 2 = 20-39; 3 = 40+; 98 = No response,sub-cdbk-2(1).txt
+PT_1,Main job: Part-time job/paid activity (less than 35 hours per week),numeric,0 = No; 1 = Yes; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q22_CAT,Total earnings from main job in the past 12 months - categorical,numeric,"1 = Under $2,500; 2 = $2,500 to under $20,000; 3 = $20,000 to under $50,000; 4 = $50,000 to under $75,000; 5 = $75,000 or more; 98 = No response",sub-cdbk-2(1).txt
+Q23R1,Had a second job in the past 12 months,numeric,1 = Yes; 2 = No; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q23R2,Had a third job in the past 12 months,numeric,1 = Yes; 2 = No; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q24R1_R,Second job: Arts-related occupation - recoded,numeric,"1 = Performing artist; 2 = Visual artist; 3 = Craft artist; 4 = Writer, author, or editor; 5 = Designer; 6 = Arts educator; 7 = Arts administrator or manager; 8 = Other arts or design job/activity; 9 = Non-arts occupation; 77 = Don't know; 98 = No response",sub-cdbk-2(1).txt
+IND_ARTS2,Arts vs. non-arts occupation: Job 2,numeric,1 = Arts occupation; 2 = Non-arts occupation; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+IND_ARTS3,Arts vs. non-arts occupation: Job 3,numeric,1 = Arts occupation; 2 = Non-arts occupation; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q26R1,Second job: Work for employer vs. self-employed,numeric,"1 = An employee for a company, organization, or person other than myself; 2 = A self-employed worker (includes business owner, independent contractor, freelance worker, app-based worker, gig worker); 77 = Don't know; 98 = No response",sub-cdbk-2(1).txt
+Q26R2,Third job: Work for employer vs. self-employed,numeric,"1 = An employee for a company, organization, or person other than myself; 2 = A self-employed worker (includes business owner, independent contractor, freelance worker, app-based worker, gig worker); 77 = Don't know; 98 = No response",sub-cdbk-2(1).txt
+Q29R1,Second job: Currently doing this job/paid activity,numeric,1 = Yes; 2 = No; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q29R2,Third job: Currently doing this job/paid activity,numeric,1 = Yes; 2 = No; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q30R1,Second job: Temporary job/paid activity,numeric,1 = Yes; 2 = No; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q30R2,Third job: Temporary job/paid activity,numeric,1 = Yes; 2 = No; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q31R1_CAT,Hours worked per week at job 2 - categorical,numeric,1 = 1-19; 2 = 20-39; 3 = 40+; 98 = No response,sub-cdbk-2(1).txt
+Q31R2_CAT,Hours worked per week at job 3 - categorical,numeric,1 = 1-19; 2 = 20-39; 3 = 40+; 98 = No response,sub-cdbk-2(1).txt
+PT_2,Second job: Part-time job/paid activity (less than 35 hours per week),numeric,0 = No; 1 = Yes; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+PT_3,Third job: Part-time job/paid activity (less than 35 hours per week),numeric,0 = No; 1 = Yes; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q32R1_CAT,Total earnings from second job in the past 12 months - categorical,numeric,"1 = Under $2,500; 2 = $2,500 to under $20,000; 3 = $20,000 to under $50,000; 4 = $50,000 to under $75,000; 5 = $75,000 or more; 98 = No response",sub-cdbk-2(1).txt
+Q32R2_CAT,Total earnings from third job in the past 12 months - categorical,numeric,"1 = Under $2,500; 2 = $2,500 to under $20,000; 3 = $20,000 to under $50,000; 4 = $50,000 to under $75,000; 5 = $75,000 or more; 98 = No response",sub-cdbk-2(1).txt
+Q53,Main reason for working part-time at one or more jobs,numeric,1 = I have other full-time work in addition to this/these part-time job(s); 2 = I could only find part-time work in this/these job(s); 3 = My personal circumstances require me to work part-time; 4 = I prefer to work part-time at this/these job(s); 5 = Other reason; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q57,Main reason for not doing any jobs or paid activities in the past 12 months,numeric,1 = Temporarily unable to work because of an injury; 2 = Temporarily unable to work because of an illness; 3 = Unable to work because of a chronic health condition or disability; 4 = Retired; 5 = Pregnancy/childbirth; 6 = Taking care of children/other persons; 7 = Going to school; 8 = Unable to find work; 9 = On layoff (temporary or indefinite); 10 = Not interested in working at a job; 11 = Other; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q58A_1,Unpaid/volunteer/cultural activity? Music: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58A_2,Unpaid/volunteer/cultural activity? Music: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58A_3,Unpaid/volunteer/cultural activity? Music: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58A_4,Unpaid/volunteer/cultural activity? Music: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58A_DK,Unpaid/volunteer/cultural activity? Music: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58A_NR,Unpaid/volunteer/cultural activity? Music: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58B_1,Unpaid/volunteer/cultural activity? Dance: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58B_2,Unpaid/volunteer/cultural activity? Dance: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58B_3,Unpaid/volunteer/cultural activity? Dance: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58B_4,Unpaid/volunteer/cultural activity? Dance: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58B_DK,Unpaid/volunteer/cultural activity? Dance: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58B_NR,Unpaid/volunteer/cultural activity? Dance: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58C_1,Unpaid/volunteer/cultural activity? Theater: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58C_2,Unpaid/volunteer/cultural activity? Theater: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58C_3,Unpaid/volunteer/cultural activity? Theater: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58C_4,Unpaid/volunteer/cultural activity? Theater: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58C_DK,Unpaid/volunteer/cultural activity? Theater: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58C_NR,Unpaid/volunteer/cultural activity? Theater: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58D_1,Unpaid/volunteer/cultural activity? Comedy: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58D_2,Unpaid/volunteer/cultural activity? Comedy: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58D_3,Unpaid/volunteer/cultural activity? Comedy: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58D_4,Unpaid/volunteer/cultural activity? Comedy: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58D_DK,Unpaid/volunteer/cultural activity? Comedy: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58D_NR,Unpaid/volunteer/cultural activity? Comedy: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58E_1,Unpaid/volunteer/cultural activity? Circus or acrobatics: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58E_2,Unpaid/volunteer/cultural activity? Circus or acrobatics: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58E_3,Unpaid/volunteer/cultural activity? Circus or acrobatics: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58E_4,Unpaid/volunteer/cultural activity? Circus or acrobatics: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58E_DK,Unpaid/volunteer/cultural activity? Circus or acrobatics: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58E_NR,Unpaid/volunteer/cultural activity? Circus or acrobatics: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58F_1,Unpaid/volunteer/cultural activity? Mime or puppetry: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58F_2,Unpaid/volunteer/cultural activity? Mime or puppetry: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58F_3,Unpaid/volunteer/cultural activity? Mime or puppetry: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58F_4,Unpaid/volunteer/cultural activity? Mime or puppetry: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58F_DK,Unpaid/volunteer/cultural activity? Mime or puppetry: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58F_NR,Unpaid/volunteer/cultural activity? Mime or puppetry: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58G_1,Unpaid/volunteer/cultural activity? Painting: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58G_2,Unpaid/volunteer/cultural activity? Painting: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58G_3,Unpaid/volunteer/cultural activity? Painting: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58G_4,Unpaid/volunteer/cultural activity? Painting: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58G_DK,Unpaid/volunteer/cultural activity? Painting: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58G_NR,Unpaid/volunteer/cultural activity? Painting: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58H_1,Unpaid/volunteer/cultural activity? Photography: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58H_2,Unpaid/volunteer/cultural activity? Photography: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58H_3,Unpaid/volunteer/cultural activity? Photography: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58H_4,Unpaid/volunteer/cultural activity? Photography: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58H_DK,Unpaid/volunteer/cultural activity? Photography: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58H_NR,Unpaid/volunteer/cultural activity? Photography: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58I_1,Unpaid/volunteer/cultural activity? Drawing or illustration: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58I_2,Unpaid/volunteer/cultural activity? Drawing or illustration: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58I_3,Unpaid/volunteer/cultural activity? Drawing or illustration: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58I_4,Unpaid/volunteer/cultural activity? Drawing or illustration: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58I_DK,Unpaid/volunteer/cultural activity? Drawing or illustration: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58I_NR,Unpaid/volunteer/cultural activity? Drawing or illustration: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58J_1,Unpaid/volunteer/cultural activity? Printmaking: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58J_2,Unpaid/volunteer/cultural activity? Printmaking: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58J_3,Unpaid/volunteer/cultural activity? Printmaking: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58J_4,Unpaid/volunteer/cultural activity? Printmaking: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58J_DK,Unpaid/volunteer/cultural activity? Printmaking: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58J_NR,Unpaid/volunteer/cultural activity? Printmaking: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58K_1,Unpaid/volunteer/cultural activity? Sculpture: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58K_2,Unpaid/volunteer/cultural activity? Sculpture: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58K_3,Unpaid/volunteer/cultural activity? Sculpture: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58K_4,Unpaid/volunteer/cultural activity? Sculpture: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58K_DK,Unpaid/volunteer/cultural activity? Sculpture: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58K_NR,Unpaid/volunteer/cultural activity? Sculpture: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58L_1,Unpaid/volunteer/cultural activity? Film or video: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58L_2,Unpaid/volunteer/cultural activity? Film or video: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58L_3,Unpaid/volunteer/cultural activity? Film or video: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58L_4,Unpaid/volunteer/cultural activity? Film or video: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58L_DK,Unpaid/volunteer/cultural activity? Film or video: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58L_NR,Unpaid/volunteer/cultural activity? Film or video: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58M_1,Unpaid/volunteer/cultural activity? Animation: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58M_2,Unpaid/volunteer/cultural activity? Animation: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58M_3,Unpaid/volunteer/cultural activity? Animation: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58M_4,Unpaid/volunteer/cultural activity? Animation: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58M_DK,Unpaid/volunteer/cultural activity? Animation: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58M_NR,Unpaid/volunteer/cultural activity? Animation: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58N_1,Unpaid/volunteer/cultural activity? Digital art: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58N_2,Unpaid/volunteer/cultural activity? Digital art: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58N_3,Unpaid/volunteer/cultural activity? Digital art: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58N_4,Unpaid/volunteer/cultural activity? Digital art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58N_DK,Unpaid/volunteer/cultural activity? Digital art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58N_NR,Unpaid/volunteer/cultural activity? Digital art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58O_1,Unpaid/volunteer/cultural activity? Fiction: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58O_2,Unpaid/volunteer/cultural activity? Fiction: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58O_3,Unpaid/volunteer/cultural activity? Fiction: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58O_4,Unpaid/volunteer/cultural activity? Fiction: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58O_DK,Unpaid/volunteer/cultural activity? Fiction: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58O_NR,Unpaid/volunteer/cultural activity? Fiction: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58P_1,Unpaid/volunteer/cultural activity? Creative nonfiction: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58P_2,Unpaid/volunteer/cultural activity? Creative nonfiction: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58P_3,Unpaid/volunteer/cultural activity? Creative nonfiction: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58P_4,Unpaid/volunteer/cultural activity? Creative nonfiction: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58P_DK,Unpaid/volunteer/cultural activity? Creative nonfiction: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58P_NR,Unpaid/volunteer/cultural activity? Creative nonfiction: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Q_1,Unpaid/volunteer/cultural activity? Poetry: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Q_2,Unpaid/volunteer/cultural activity? Poetry: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Q_3,Unpaid/volunteer/cultural activity? Poetry: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Q_4,Unpaid/volunteer/cultural activity? Poetry: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Q_DK,Unpaid/volunteer/cultural activity? Poetry: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Q_NR,Unpaid/volunteer/cultural activity? Poetry: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58R_1,Unpaid/volunteer/cultural activity? Spoken word: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58R_2,Unpaid/volunteer/cultural activity? Spoken word: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58R_3,Unpaid/volunteer/cultural activity? Spoken word: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58R_4,Unpaid/volunteer/cultural activity? Spoken word: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58R_DK,Unpaid/volunteer/cultural activity? Spoken word: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58R_NR,Unpaid/volunteer/cultural activity? Spoken word: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58S_1,Unpaid/volunteer/cultural activity? Theatrical plays: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58S_2,Unpaid/volunteer/cultural activity? Theatrical plays: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58S_3,Unpaid/volunteer/cultural activity? Theatrical plays: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58S_4,Unpaid/volunteer/cultural activity? Theatrical plays: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58S_DK,Unpaid/volunteer/cultural activity? Theatrical plays: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58S_NR,Unpaid/volunteer/cultural activity? Theatrical plays: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58T_1,Unpaid/volunteer/cultural activity? Screenplays: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58T_2,Unpaid/volunteer/cultural activity? Screenplays: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58T_3,Unpaid/volunteer/cultural activity? Screenplays: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58T_4,Unpaid/volunteer/cultural activity? Screenplays: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58T_DK,Unpaid/volunteer/cultural activity? Screenplays: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58T_NR,Unpaid/volunteer/cultural activity? Screenplays: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58U_1,"Unpaid/volunteer/cultural activity? Fiber, textiles, or weaving: Unpaid activities.",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58U_2,"Unpaid/volunteer/cultural activity? Fiber, textiles, or weaving: Volunteer activities.",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58U_3,"Unpaid/volunteer/cultural activity? Fiber, textiles, or weaving: Cultural activities.",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58U_4,"Unpaid/volunteer/cultural activity? Fiber, textiles, or weaving: None of these.",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58U_DK,"Unpaid/volunteer/cultural activity? Fiber, textiles, or weaving: Don't know.",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58U_NR,"Unpaid/volunteer/cultural activity? Fiber, textiles, or weaving: No response.",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58V_1,"Unpaid/volunteer/cultural activity? Ceramics, clay, or pottery: Unpaid activities.",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58V_2,"Unpaid/volunteer/cultural activity? Ceramics, clay, or pottery: Volunteer activities.",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58V_3,"Unpaid/volunteer/cultural activity? Ceramics, clay, or pottery: Cultural activities.",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58V_4,"Unpaid/volunteer/cultural activity? Ceramics, clay, or pottery: None of these.",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58V_DK,"Unpaid/volunteer/cultural activity? Ceramics, clay, or pottery: Don't know.",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58V_NR,"Unpaid/volunteer/cultural activity? Ceramics, clay, or pottery: No response.",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58W_1,Unpaid/volunteer/cultural activity? Metalworking: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58W_2,Unpaid/volunteer/cultural activity? Metalworking: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58W_3,Unpaid/volunteer/cultural activity? Metalworking: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58W_4,Unpaid/volunteer/cultural activity? Metalworking: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58W_DK,Unpaid/volunteer/cultural activity? Metalworking: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58W_NR,Unpaid/volunteer/cultural activity? Metalworking: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58X_1,Unpaid/volunteer/cultural activity? Woodworking: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58X_2,Unpaid/volunteer/cultural activity? Woodworking: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58X_3,Unpaid/volunteer/cultural activity? Woodworking: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58X_4,Unpaid/volunteer/cultural activity? Woodworking: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58X_DK,Unpaid/volunteer/cultural activity? Woodworking: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58X_NR,Unpaid/volunteer/cultural activity? Woodworking: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Y_1,Unpaid/volunteer/cultural activity? Glass working: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Y_2,Unpaid/volunteer/cultural activity? Glass working: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Y_3,Unpaid/volunteer/cultural activity? Glass working: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Y_4,Unpaid/volunteer/cultural activity? Glass working: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Y_DK,Unpaid/volunteer/cultural activity? Glass working: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Y_NR,Unpaid/volunteer/cultural activity? Glass working: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Z_1,Unpaid/volunteer/cultural activity? Jewelry making: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Z_2,Unpaid/volunteer/cultural activity? Jewelry making: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Z_3,Unpaid/volunteer/cultural activity? Jewelry making: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Z_4,Unpaid/volunteer/cultural activity? Jewelry making: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Z_DK,Unpaid/volunteer/cultural activity? Jewelry making: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58Z_NR,Unpaid/volunteer/cultural activity? Jewelry making: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58AA_1,Unpaid/volunteer/cultural activity? Installation art: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58AA_2,Unpaid/volunteer/cultural activity? Installation art: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58AA_3,Unpaid/volunteer/cultural activity? Installation art: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58AA_4,Unpaid/volunteer/cultural activity? Installation art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58AA_DK,Unpaid/volunteer/cultural activity? Installation art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58AA_NR,Unpaid/volunteer/cultural activity? Installation art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58BB_1,Unpaid/volunteer/cultural activity? Interdisciplinary art: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58BB_2,Unpaid/volunteer/cultural activity? Interdisciplinary art: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58BB_3,Unpaid/volunteer/cultural activity? Interdisciplinary art: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58BB_4,Unpaid/volunteer/cultural activity? Interdisciplinary art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58BB_DK,Unpaid/volunteer/cultural activity? Interdisciplinary art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58BB_NR,Unpaid/volunteer/cultural activity? Interdisciplinary art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58CC_1,Unpaid/volunteer/cultural activity? Multidisciplinary art: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58CC_2,Unpaid/volunteer/cultural activity? Multidisciplinary art: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58CC_3,Unpaid/volunteer/cultural activity? Multidisciplinary art: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58CC_4,Unpaid/volunteer/cultural activity? Multidisciplinary art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58CC_DK,Unpaid/volunteer/cultural activity? Multidisciplinary art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58CC_NR,Unpaid/volunteer/cultural activity? Multidisciplinary art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58DD_1,Unpaid/volunteer/cultural activity? Performance art: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58DD_2,Unpaid/volunteer/cultural activity? Performance art: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58DD_3,Unpaid/volunteer/cultural activity? Performance art: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58DD_4,Unpaid/volunteer/cultural activity? Performance art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58DD_DK,Unpaid/volunteer/cultural activity? Performance art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58DD_NR,Unpaid/volunteer/cultural activity? Performance art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58EE_1,Unpaid/volunteer/cultural activity? Social practice art: Unpaid activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58EE_2,Unpaid/volunteer/cultural activity? Social practice art: Volunteer activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58EE_3,Unpaid/volunteer/cultural activity? Social practice art: Cultural activities.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58EE_4,Unpaid/volunteer/cultural activity? Social practice art: None of these.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58EE_DK,Unpaid/volunteer/cultural activity? Social practice art: Don't know.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q58EE_NR,Unpaid/volunteer/cultural activity? Social practice art: No response.,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q59,Provide unpaid assistance or care to a family member or friend,numeric,1 = Yes; 2 = No; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q60_1,Assets: Checking or savings account(s),numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q60_2,Assets: Retirement account(s),numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q60_3,Assets: Financial investments (not in a retirement account),numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q60_4,Assets: Ownership of your primary home,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q60_5,Assets: Ownership of other real estate (not including primary home),numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q60_6,Assets: Ownership of your primary vehicle,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q60_7,Assets: Ownership in a business (non-stock),numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q60_8,Assets: Other financial assets,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q60_9,Assets: None of these,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q60_DK,Assets: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q60_NR,Assets: No response,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q61_R,Total value of assets - recoded,numeric,"1 = Under $2,500; 2 = $2,501 - $5,000; 3 = $5,001 - $10,000; 4 = $10,001 - $15,000; 5 = $15,001 - $25,000; 6 = $25,001 - $50,000; 7 = $50,001 - $75,000; 8 = $75,001 - $100,000; 9 = $100,001 - $150,000; 10 = $150,001 - $350,000; 11 = Over $350,000; 77 = Don't know; 98 = No response",sub-cdbk-2(1).txt
+Q62_1,Debts: Mortgage,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q62_2,Debts: Car loan(s),numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q62_3,Debts: School loan(s),numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q62_4,Debts: Credit card debt,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q62_5,Debts: Medical debt,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q62_6,Debts: Other debts or loans,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q62_7,Debts: None of these,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q62_DK,Debts: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q62_NR,Debts: No response,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q63_R,Total value of debts - recoded,numeric,"1 = Under $2,500; 2 = $2,501 - $5,000; 3 = $5,001 - $10,000; 4 = $10,001 - $15,000; 5 = $15,001 - $25,000; 6 = $25,001 - $50,000; 7 = $50,001 - $75,000; 8 = $75,001 - $100,000; 9 = $100,001 - $150,000; 10 = $150,001 - $350,000; 11 = Over $350,000; 77 = Don't know; 98 = No response",sub-cdbk-2(1).txt
+Q64_1_TC,Household members: Spouse/partner - top-coded,numeric,0 = 0; 1 = 1; 2 = 2 or more,sub-cdbk-2(1).txt
+Q64_2_TC,Household members: Dependent children - top-coded,numeric,0 = 0; 1 = 1; 2 = 2; 3 = 3 or more,sub-cdbk-2(1).txt
+Q64_3_TC,Household members: Other children - top-coded,numeric,0 = 0; 1 = 1; 2 = 2 or more,sub-cdbk-2(1).txt
+Q64_4_TC,Household members: Other dependent relatives - top-coded,numeric,0 = 0; 1 = 1 or more,sub-cdbk-2(1).txt
+HH_SIZE_TC,Total household size - top-coded,numeric,1 = 1; 2 = 2; 3 = 3; 4 = 4; 5 = 5 or more; 98 = No response,sub-cdbk-2(1).txt
+Q65_1,Household income sources: Employment (wages) for respondent or others in household,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q65_2,Household income sources: Social Security,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q65_3,Household income sources: Pensions or retirement benefits based on service,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q65_4,"Household income sources: Business, farm, or self-employment",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q65_5,"Household income sources: Public assistance (including TANF, food stamps)",numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q65_6,Household income sources: Interest or dividends from investments or annuity,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q65_7,Household income sources: Family or friends outside the household,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q65_8,Household income sources: Capital gains or rent,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q65_9,Household income sources: Alimony,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q65_10,Household income sources: Other,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q65_DK,Household income sources: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q65_NR,Household income sources: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+INCOME,Household income,numeric,"1 = Less than $30,000; 2 = $30,000 to under $60,000; 3 = $60,000 to under $100,000; 4 = $100,000 or more; 98 = No response",sub-cdbk-2(1).txt
+Q67_1,Benefits: Health insurance,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q67_2,Benefits: Dental insurance,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q67_3,Benefits: Vision insurance,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q67_4,Benefits: Life insurance (individual or group),numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q67_5,Benefits: Retirement including employer contributions,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q67_6,Benefits: Profit sharing and/or stock options,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q67_7,Benefits: Paid holidays or vacation,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q67_8,Benefits: Paid sick leave,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q67_9,Benefits: Paid parental or family leave,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q67_10,Benefits: Professional development assistance and/or reimbursement,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q67_11,Benefits: Free/reduced-cost studio space or art materials,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q67_12,Benefits: Other benefit(s),numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q67_DK,Benefits: Don't know,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q67_NR,Benefits: No response,numeric,0 = Not selected; 1 = Selected,sub-cdbk-2(1).txt
+Q68A_1,Main job: Health insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68A_2,Main job: Dental insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68A_3,Main job: Vision insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68A_DK,Main job: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68A_NR,Main job: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68B_1,Second job: Health insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68B_2,Second job: Dental insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68B_3,Second job: Vision insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68B_DK,Second job: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68B_NR,Second job: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68C_1,Third job: Health insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68C_2,Third job: Dental insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68C_3,Third job: Vision insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68C_DK,Third job: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68C_NR,Third job: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68E_1,Spouse or partner's job: Health insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68E_2,Spouse or partner's job: Dental insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68E_3,Spouse or partner's job: Vision insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68E_DK,Spouse or partner's job: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68E_NR,Spouse or partner's job: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68F_1,Directly purchased from an insurance company: Health insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68F_2,Directly purchased from an insurance company: Dental insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68F_3,Directly purchased from an insurance company: Vision insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68F_DK,Directly purchased from an insurance company: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68F_NR,Directly purchased from an insurance company: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68G_1,Health insurance marketplace: Health insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68G_2,Health insurance marketplace: Dental insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68G_3,Health insurance marketplace: Vision insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68G_DK,Health insurance marketplace: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68G_NR,Health insurance marketplace: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68H_1,Medicare: Health insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68H_2,Medicare: Dental insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68H_3,Medicare: Vision insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68H_DK,Medicare: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68H_NR,Medicare: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68I_1,Medicaid: Health insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68I_2,Medicaid: Dental insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68I_3,Medicaid: Vision insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68I_DK,Medicaid: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68I_NR,Medicaid: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68J_1,Office of Veteran's Affairs: Health insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68J_2,Office of Veteran's Affairs: Dental insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68J_3,Office of Veteran's Affairs: Vision insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68J_DK,Office of Veteran's Affairs: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68J_NR,Office of Veteran's Affairs: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68K_1,Union: Health insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68K_2,Union: Dental insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68K_3,Union: Vision insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68K_DK,Union: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68K_NR,Union: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68L_1,Some other source: Health insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68L_2,Some other source: Dental insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68L_3,Some other source: Vision insurance,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68L_DK,Some other source: Don't know,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q68L_NR,Some other source: No response,numeric,0 = No; 1 = Yes,sub-cdbk-2(1).txt
+Q69,Overall health rating,numeric,1 = Excellent; 2 = Very good; 3 = Good; 4 = Fair; 5 = Poor; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q70,Mental/emotional health rating,numeric,1 = Excellent; 2 = Very good; 3 = Good; 4 = Fair; 5 = Poor; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q73,Self-identification as a person with a disability,numeric,1 = Yes; 2 = No; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q74,Manages a chronic health condition,numeric,1 = Yes; 2 = No; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q75A,Worry: Having enough to eat,numeric,1 = Not at all worried; 2 = Not too worried; 3 = Somewhat worried; 4 = Very worried; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q75B,Worry: Being able to work as many hours as you want,numeric,1 = Not at all worried; 2 = Not too worried; 3 = Somewhat worried; 4 = Very worried; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q75C,Worry: Being able to pay your rent or mortgage,numeric,1 = Not at all worried; 2 = Not too worried; 3 = Somewhat worried; 4 = Very worried; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q75D,"Worry: Being able to pay your gas, oil, or electricity bills",numeric,1 = Not at all worried; 2 = Not too worried; 3 = Somewhat worried; 4 = Very worried; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q75E,Worry: Being able to pay your debts,numeric,1 = Not at all worried; 2 = Not too worried; 3 = Somewhat worried; 4 = Very worried; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+Q75F,Worry: Being able to pay for medical costs,numeric,1 = Not at all worried; 2 = Not too worried; 3 = Somewhat worried; 4 = Very worried; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+AGE_CAT,Respondent age - categorical,numeric,1 = 18-29; 2 = 30-44; 3 = 45-59; 4 = 60+; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+GENDER_R,Gender identity - recoded,numeric,1 = Male; 2 = Female; 3 = Other; 98 = No response,sub-cdbk-2(1).txt
+RACETHNICITY,Combined race/ethnicity,numeric,"1 = White, non-Hispanic; 2 = Black, non-Hispanic; 3 = Other, non-Hispanic; 4 = Hispanic; 98 = No response",sub-cdbk-2(1).txt
+EDUC_R,Education (highest degree received) - recoded,numeric,1 = High school or less; 2 = Some college/associate degree; 3 = Bachelor's degree; 4 = Post-grad/professional degree; 98 = No response,sub-cdbk-2(1).txt
+ARTS_DEGREE_PG,Holds an arts-related post-graduate or professional degree,numeric,0 = No; 1 = Yes; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+ARTS_DEGREE_UG,Holds an arts-related bachelor's or associate degree,numeric,0 = No; 1 = Yes; 77 = Don't know; 98 = No response,sub-cdbk-2(1).txt
+MARITAL_R,Marital status - recoded,numeric,1 = Married; 2 = Divorced/Widowed/Separated; 3 = Never married; 98 = No response,sub-cdbk-2(1).txt
+Q90_R,Sexual orientation - recoded,numeric,"1 = Straight, that is, not lesbian or gay; 2 = LGBQ; 3 = No response or don't know",sub-cdbk-2(1).txt
+RAO_REGION,Regional Arts Organizations geographic regions,numeric,1 = Mid-America; 2 = Mid-Atlantic; 3 = Midwest; 4 = New England; 5 = South; 6 = West; 98 = No response,sub-cdbk-2(1).txt
+METRO,Metro vs. non-metro area,numeric,0 = Non-Metro Area; 1 = Metro Area; 98 = No response,sub-cdbk-2(1).txt

@@ -1,0 +1,231 @@
+---
+title: "NoSA_cleaning"
+format: html
+editor: visual
+---
+
+# Data Preparation and Cleaning
+
+## This quarto file performs the following actions:
+
+**Imports files:**
+
+-   Imports full data set("artists_complete.csv") and stores it as artists_raw
+-   Imports data dictionary("artists_data_dictionary.csv) and stores it as artists_dictionary
+
+**Checks for missing values**
+
+**Cleans artists_raw**
+
+-   Creates artists_clean (copy of artists_raw)
+-   Replaces special codes 77(don't know) and 98(no response) with NA
+
+**Converts some variables to ordered categorical variables**
+
+-   INCOME (household income)
+-   EDUC_R (highest education attained)
+
+**Creates searchable variable catalog**
+
+-   by keyword
+-   by question number
+
+**Creates 5 smaller data frames, retaining full data set artists_cleaned**
+
+-   artists_q1 (artistic disciplines respondents practice)
+-   artists_q2 (how respondents participate in these disciplines, including hobbyist, teachers, etc.)
+-   artists_q3 (additional information about respondents' artistic disciplines)
+-   artists_q58 (unpaid, volunteer and cultural activities across discipline)
+-   artists_q68 (employment benefits and which jobs provide them)
+-   artists_core (everything else)
+
+## How to search data dictionary:
+
+For example, to find all variables related to "income", use:
+
+-   artists_dictionary %\>% filter(str_detect(description, regex("income", ignore_case=TRUE)))
+
+## How to use searchable variable catalog
+
+For example to find "employment", use:
+
+-   find_vars("employment")
+
+## Importing libraries and data
+
+```{r}
+library(tidyverse)
+library(tidymodels)
+```
+
+```{r}
+#import full data set
+artists_raw <- read_csv("artists_complete.csv",
+                        na = c("", " ", "NA"),
+                        #don't display column types
+                        show_col_types=FALSE)
+
+#import data dictionary
+artists_dictionary <- read_csv("artists_data_dictionary.csv")
+```
+
+## Checking for missing values
+
+```{r}
+#checking for missing values
+artists_raw %>%
+  summarise(total_missing = sum(is.na(across(everything()))))
+```
+
+```{r}
+#examining missing values by variable
+artists_raw %>% 
+  #calculating percentage of missing values
+  summarise(across(everything(), ~ mean(is.na(.x)) * 100)) %>% 
+  #creating table showing percentages of missing values in each column
+  pivot_longer(everything(), names_to = "variable", values_to = "percent_missing") %>% 
+  #arranging high to lowest percentages
+  arrange(desc(percent_missing))
+```
+
+## Cleaning artists_raw
+
+```{r}
+#creating copy of artists_raw and organize columns
+artists_clean <- artists_raw %>% 
+  #changing order of columns to move ID, WEIGHTS, VSTRAT, and VPSU to the beginning
+  relocate(ID, WEIGHTS, VSTRAT, VPSU)
+```
+
+```{r}
+#investigating which variables contain codes 77 (don't know) and 98 (no response) as responses and looking at corresponding descriptions:
+special_codes <- artists_clean %>% 
+  #looking for 77 or 98 as a response
+  summarise(across(where(is.numeric), ~ sum(.x %in% c(77, 98), na.rm=TRUE))) %>% 
+  #creating table with results
+  pivot_longer(everything(), names_to = "variable", values_to = "count") %>% 
+  #removing variables without codes 77 and 98
+  filter(count>0) %>% 
+  #matching variable to dictionary alongside count
+  left_join(artists_dictionary, by = "variable")
+```
+
+```{r}
+#replacing special codes with NA
+artists_clean <- artists_clean %>% 
+  mutate(across(all_of(missing_vars), ~ replace(.x, .x %in% c(77, 98), NA_real_)))
+
+#checking
+tibble(dataset = c("Original", "Cleaned"), missing_values = c(sum(is.na(artists_raw)), sum(is.na(artists_clean))))
+```
+
+## Converting categorical variables to ordered categorical variables
+
+```{r}
+#organizing categorical variables, converting INCOME (household income) to ordered cat var
+artists_clean <- artists_clean %>% 
+  mutate(INCOME=factor(INCOME, levels = c(1, 2, 3, 4), labels = c("Under $30,000", "$30,000-$59,999", "$60,000-$99,999", "$100,000 or more"), ordered=TRUE))
+
+#converting EDUC_R (highest educational attainment) to ordered cat var
+artists_clean <- artists_clean %>% 
+  mutate(EDUC_R=factor(EDUC_R, levels = c(1, 2, 3, 4), labels = c("High school or less", "Some college / Associate degree", "Bachelor's degree", "Graduate / Professional degree"), ordered=TRUE))
+
+```
+
+## Creating searchable variable catalog
+
+```{r}
+#creating searchable variable catalog
+find_vars <- function(keyword) {artists_dictionary %>% 
+    filter(str_detect(description, regex(keyword, ignore_case=TRUE))) %>% 
+    select(variable, description)}
+```
+
+```{r}
+#count variables by question
+question_groups <- artists_dictionary %>% 
+  mutate(question = str_extract(variable, "^Q[0-9]+")) %>% 
+  count(question, sort=TRUE)
+
+print(question_groups, n= 20)
+```
+
+```{r}
+#adding question groups to dictionary
+artists_dictionary <- artists_dictionary %>% 
+  mutate(question = str_extract(variable, "^Q[0-9]+"))
+```
+
+```{r}
+#To use: for example, to see all Q2 vars:
+artists_dictionary %>% 
+  filter(question == "Q2") %>% 
+  select(variable, description)
+```
+
+## Creating smaller sub data sets
+
+```{r}
+#creating smaller data sets from artists_clean
+
+#starting with Q2:
+artists_q2 <- artists_clean %>% 
+  select(ID, matches("^Q2([^0-9]|$)"))
+
+#checking
+dim(artists_q2)
+```
+
+```{r}
+#creating smaller data sets for Q1, Q3 and Q58
+
+#function to extract question group
+get_question <- function(q){artists_clean %>% 
+    select(ID, all_of(artists_dictionary %>% 
+                        filter(question == q) %>% 
+                        pull(variable)))}
+
+```
+
+```{r}
+#creating sub data sets
+artists_q1 <- get_question("Q1")
+artists_q3 <- get_question("Q3")
+artists_q58 <- get_question("Q58")
+
+#checking sizes
+sapply(list(artists_q1, artists_q3, artists_q58), dim)
+```
+
+```{r}
+#creating artists_core, smaller dataframe minus questions 1, 2, 3 and 58
+
+#excluding questions above
+artists_core <- artists_clean %>% 
+  select(-matches("Q(1|2|3|58)([^0-9]|$)"))
+
+#checking
+dim(artists_core)
+```
+
+```{r}
+#looking for other large variable questions
+artists_dictionary %>% 
+  filter(variable %in% names(artists_core)) %>% 
+  count(question, sort=TRUE)
+```
+
+```{r}
+#separating out question 68:
+artists_q68 <- get_question("Q68")
+
+#removing from artists_core
+artists_core <- artists_core %>% 
+  select(-matches("^Q68([^0-9]|$)"))
+```
+
+```{r}
+#checking
+dim(artists_q68)
+dim(artists_core)
+```

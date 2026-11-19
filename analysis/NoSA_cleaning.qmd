@@ -60,7 +60,7 @@ library(tidymodels)
 
 ```{r}
 #import full data set
-artists_raw <- read_csv("artists_complete.csv",
+artists_raw <- read_csv("artists_survey.zip",
                         na = c("", " ", "NA"),
                         #don't display column types
                         show_col_types=FALSE)
@@ -111,6 +111,9 @@ special_codes <- artists_clean %>%
 ```
 
 ```{r}
+missing_vars <- special_codes %>%
+  pull(variable)
+
 #replacing special codes with NA
 artists_clean <- artists_clean %>% 
   mutate(across(all_of(missing_vars), ~ replace(.x, .x %in% c(77, 98), NA_real_)))

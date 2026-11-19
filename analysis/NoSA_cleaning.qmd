@@ -10,46 +10,46 @@ editor: visual
 
 **Imports files:**
 
--   Imports full data set("artists_complete.csv") and stores it as artists_raw
--   Imports data dictionary("artists_data_dictionary.csv) and stores it as artists_dictionary
+- Imports full data set("artists_complete.csv") and stores it as artists_raw
+- Imports data dictionary("artists_data_dictionary.csv) and stores it as artists_dictionary
 
 **Checks for missing values**
 
 **Cleans artists_raw**
 
--   Creates artists_clean (copy of artists_raw)
--   Replaces special codes 77(don't know) and 98(no response) with NA
+- Creates artists_clean (copy of artists_raw)
+- Replaces special codes 77(don't know) and 98(no response) with NA
 
 **Converts some variables to ordered categorical variables**
 
--   INCOME (household income)
--   EDUC_R (highest education attained)
+- INCOME (household income)
+- EDUC_R (highest education attained)
 
 **Creates searchable variable catalog**
 
--   by keyword
--   by question number
+- by keyword
+- by question number
 
 **Creates 5 smaller data frames, retaining full data set artists_cleaned**
 
--   artists_q1 (artistic disciplines respondents practice)
--   artists_q2 (how respondents participate in these disciplines, including hobbyist, teachers, etc.)
--   artists_q3 (additional information about respondents' artistic disciplines)
--   artists_q58 (unpaid, volunteer and cultural activities across discipline)
--   artists_q68 (employment benefits and which jobs provide them)
--   artists_core (everything else)
+- artists_q1 (artistic disciplines respondents practice)
+- artists_q2 (how respondents participate in these disciplines, including hobbyist, teachers, etc.)
+- artists_q3 (additional information about respondents' artistic disciplines)
+- artists_q58 (unpaid, volunteer and cultural activities across discipline)
+- artists_q68 (employment benefits and which jobs provide them)
+- artists_core (everything else)
 
 ## How to search data dictionary:
 
 For example, to find all variables related to "income", use:
 
--   artists_dictionary %\>% filter(str_detect(description, regex("income", ignore_case=TRUE)))
+- artists_dictionary %\>% filter(str_detect(description, regex("income", ignore_case=TRUE)))
 
 ## How to use searchable variable catalog
 
 For example to find "employment", use:
 
--   find_vars("employment")
+- find_vars("employment")
 
 ## Importing libraries and data
 
